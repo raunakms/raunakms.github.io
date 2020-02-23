@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages | Raunak Shrestha</title>
+    <link>/pages/</link>
+      <atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pages</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Sat, 22 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Pages</title>
+      <link>/pages/</link>
+    </image>
+    
+    <item>
+      <title>Biography</title>
+      <link>/pages/biography/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/pages/biography/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a Bioinformatics Post-doctoral scholar with 
+&lt;a href=&#34;http://fenglaboratory.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Felix Feng&lt;/a&gt; at the 
+&lt;a href=&#34;https://www.ucsf.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of California, San Francisco (UCSF)&lt;/a&gt;. I&amp;rsquo;m stationed at the 
+&lt;a href=&#34;http://cancer.ucsf.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UCSF Helen Diller Family Comprehensive Cancer Center&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I did my PhD in Bioinformatics from the 
+&lt;a href=&#34;http://www.ubc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of British Columbia (UBC)&lt;/a&gt; under the supervision of 
+&lt;a href=&#34;http://www.prostatecentre.com/about-us/people/dr-colin-collins&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Colin Collins&lt;/a&gt; and 
+&lt;a href=&#34;https://ccr.cancer.gov/cancer-data-science-laboratory/s-cenk-sahinalp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Cenk Sahinalp&lt;/a&gt;.
+I worked in conjunction with 
+&lt;a href=&#34;https://ccr.cancer.gov/cancer-data-science-laboratory/s-cenk-sahinalp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cancer Data Science Laboratory at the National Cancer Institite (NCI)&lt;/a&gt;. After my PhD, I continued working as a Post-doctoral scholar with Dr. Collins at Laboratory for Advanced Genome Analysis (LAGA), 
+&lt;a href=&#34;http://www.prostatecentre.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vancouver Prostate Center&lt;/a&gt; for a year.&lt;/p&gt;
+&lt;p&gt;I reveived my undergraduate training (B.Tech) in Biotechnology from 
+&lt;a href=&#34;http://www.ku.edu.np/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kathmandu University&lt;/a&gt;, Nepal (2009). After graduation, I spent a couple of years working as Resarch Associate at The 
+&lt;a href=&#34;http://cmdn.org.np/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Molecular Dynamics Nepal (CMDN)&lt;/a&gt; before moving to Canada for my PhD.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/pages/biography/gallery/24_logo_ubc.png&#34; data-caption=&#34;University of British Columbia (UBC)&#34;&gt;
+  &lt;img data-src=&#34;/pages/biography/gallery/24_logo_ubc_hue72987a6f6f25e98b4f104437f1701b5_12045_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;139&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/pages/biography/gallery/25_logo_vpc.png&#34; data-caption=&#34;Vancouver Prostate Centre&#34;&gt;
+  &lt;img data-src=&#34;/pages/biography/gallery/25_logo_vpc_hu22e2ee4e1fea7bb444c0d88dbb2097fd_85061_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;589&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/pages/biography/gallery/26_logo_sfu.png&#34; data-caption=&#34;Simon Fraser University&#34;&gt;
+  &lt;img data-src=&#34;/pages/biography/gallery/26_logo_sfu_hu06fae31529907684f075ddab74ae6bb8_6724_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;448&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/pages/biography/gallery/27_logo_CMDN.png&#34; data-caption=&#34;Centre for Molecular Dynamics Nepal (CMDN)&#34;&gt;
+  &lt;img data-src=&#34;/pages/biography/gallery/27_logo_CMDN_huf1063d2e315ed38dc24cf7d178542cf6_229026_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;464&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/pages/biography/gallery/28_logo_ku.png&#34; data-caption=&#34;Kathmandu University (KU)&#34;&gt;
+  &lt;img data-src=&#34;/pages/biography/gallery/28_logo_ku_huc51559a44906e3ac925a3c81969ebda3_219518_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/pages/biography/gallery/29_logo_sxc.png&#34; data-caption=&#34;St. Xavier&amp;amp;rsquo;s College (SXC), Maitighar, Kathmandu&#34;&gt;
+  &lt;img data-src=&#34;/pages/biography/gallery/29_logo_sxc_hud0c393038b1b5b38d2c388ca1eadc58b_630642_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/pages/biography/gallery/30_logo_gems.png&#34; data-caption=&#34;Graded English Medium School (GEMS)&#34;&gt;
+  &lt;img data-src=&#34;/pages/biography/gallery/30_logo_gems_hu2605f7131c6c13e1eb9f8eeaf22bf4e2_472167_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;153&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Statement</title>
+      <link>/pages/research_statement/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/pages/research_statement/</guid>
+      <description>&lt;p&gt;My primary research goals are directed towards understanding the complex nature of cancer by computationally modelling cancer omics data. My research is primarily focused on development and application of computational methods integrating cancer omics data so as to enable precision oncology. The methods I develop leverage complex network approaches which helps to bring these multi-dimensional data into a single-analysis framework.&lt;/p&gt;
+&lt;p&gt;My current research focuses on exploring this idea analyzing genotype-phenotype relationships in cancer to prioritize cancer driver genes and precision therapeutics. Most recently, my research led to define a novel molecular subtype as well as biomarker stratifying this subtype of a rare cancer of abdomen potentially vulnerable to immunotherapy.&lt;/p&gt;
+&lt;p&gt;Furthermore, I would like to understand the spatial heterogeneity in cancer. I believe, communication between tumor and its micro-environment and vice-versa is critical for cancer progression and therapeutic resistance. Using single-cell multi-omics, I would like to study how tumor-microenvironment communication shapes cancer evolution and how we can leverage this knowledge to develop novel cancer therapeutics.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

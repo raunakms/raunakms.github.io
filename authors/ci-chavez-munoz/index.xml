@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CI Chavez-Munoz | Raunak Shrestha</title>
+    <link>/authors/ci-chavez-munoz/</link>
+      <atom:link href="/authors/ci-chavez-munoz/index.xml" rel="self" type="application/rss+xml" />
+    <description>CI Chavez-Munoz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>CI Chavez-Munoz</title>
+      <link>/authors/ci-chavez-munoz/</link>
+    </image>
+    
+    <item>
+      <title>Identification of Predictive Gene Signature to Guide Precision Oncology of Clear-Cell Renal Cell Carcinoma</title>
+      <link>/publication/2020_rcc/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_rcc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

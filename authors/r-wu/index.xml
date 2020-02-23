@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Wu | Raunak Shrestha</title>
+    <link>/authors/r-wu/</link>
+      <atom:link href="/authors/r-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>R Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Fri, 23 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>R Wu</title>
+      <link>/authors/r-wu/</link>
+    </image>
+    
+    <item>
+      <title>BIRC6-targeting as potential therapy for advanced, enzalutamide-resistant prostate cancer</title>
+      <link>/publication/2016_birc6/</link>
+      <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016_birc6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

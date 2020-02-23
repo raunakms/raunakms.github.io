@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BH Poudel | Raunak Shrestha</title>
+    <link>/authors/bh-poudel/</link>
+      <atom:link href="/authors/bh-poudel/index.xml" rel="self" type="application/rss+xml" />
+    <description>BH Poudel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Tue, 18 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>BH Poudel</title>
+      <link>/authors/bh-poudel/</link>
+    </image>
+    
+    <item>
+      <title>Analysis of KatG Ser315Thr Mutation in Multidrug Resistant Mycobacterium tuberculosis and SLC11A1 Polymorphism in Multidrug Resistance Tuberculosis in Central Development Region of Nepal Using PCR-RFLP Technique: A Pilot Study</title>
+      <link>/publication/2011_mtb/</link>
+      <pubDate>Tue, 18 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/2011_mtb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

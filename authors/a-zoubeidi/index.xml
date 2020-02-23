@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Zoubeidi | Raunak Shrestha</title>
+    <link>/authors/a-zoubeidi/</link>
+      <atom:link href="/authors/a-zoubeidi/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Zoubeidi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Fri, 23 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>A Zoubeidi</title>
+      <link>/authors/a-zoubeidi/</link>
+    </image>
+    
+    <item>
+      <title>BIRC6-targeting as potential therapy for advanced, enzalutamide-resistant prostate cancer</title>
+      <link>/publication/2016_birc6/</link>
+      <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016_birc6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
