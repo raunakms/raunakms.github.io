@@ -5,12 +5,20 @@
     <link>/authors/e-hodzic/</link>
       <atom:link href="/authors/e-hodzic/index.xml" rel="self" type="application/rss+xml" />
     <description>E Hodzic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Mon, 09 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>E Hodzic</title>
       <link>/authors/e-hodzic/</link>
     </image>
+    
+    <item>
+      <title>Identification of Conserved Evolutionary Trajectories in Tumors</title>
+      <link>/publication/2020_conett/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_conett/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Combinatorial Detection of Conserved Alteration Patterns for Identifying Cancer Subnetworks</title>

@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Mon, 10 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Mon, 09 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a Bioinformatics Post-doctoral Research Scholar working with 
 &lt;a href=&#34;http://fenglaboratory.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Felix Feng&lt;/a&gt; at the 
@@ -25,6 +25,54 @@
 &lt;a href=&#34;/pdf/cv_shrestha_raunak.pdf&#34;&gt;My Curriculum Vitae&lt;/a&gt;]  [
 &lt;a href=&#34;./pages/biography&#34;&gt;My Biography&lt;/a&gt;]&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>C Sahinalp</title>
+      <link>/authors/c-sahinalp/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/c-sahinalp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CC Collins</title>
+      <link>/authors/cc-collins/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/cc-collins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Hodzic</title>
+      <link>/authors/e-hodzic/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/e-hodzic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K Litchfield</title>
+      <link>/authors/k-litchfield/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/k-litchfield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Malikic</title>
+      <link>/authors/s-malikic/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/s-malikic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Turajlic</title>
+      <link>/authors/s-turajlic/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/s-turajlic/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -68,10 +116,10 @@
     </item>
     
     <item>
-      <title>ME. Roberts</title>
-      <link>/authors/me.-roberts/</link>
+      <title>ME Roberts</title>
+      <link>/authors/me-roberts/</link>
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/me.-roberts/</guid>
+      <guid>/authors/me-roberts/</guid>
       <description></description>
     </item>
     
@@ -232,14 +280,6 @@
       <link>/authors/g-getz/</link>
       <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/authors/g-getz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ICGC/TCGA Pan-Cancer Analysis of Whole Genomes Consortium</title>
-      <link>/authors/icgc/tcga-pan-cancer-analysis-of-whole-genomes-consortium/</link>
-      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/icgc/tcga-pan-cancer-analysis-of-whole-genomes-consortium/</guid>
       <description></description>
     </item>
     
@@ -408,14 +448,6 @@
       <link>/authors/b-mcconeghy/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
       <guid>/authors/b-mcconeghy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CC Collins</title>
-      <link>/authors/cc-collins/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/cc-collins/</guid>
       <description></description>
     </item>
     
@@ -608,14 +640,6 @@
       <link>/authors/y-mcconnell/</link>
       <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/authors/y-mcconnell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E Hodzic</title>
-      <link>/authors/e-hodzic/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/e-hodzic/</guid>
       <description></description>
     </item>
     

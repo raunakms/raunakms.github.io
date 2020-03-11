@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Mon, 10 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Mon, 09 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Identification of Conserved Evolutionary Trajectories in Tumors</title>
+      <link>/publication/2020_conett/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_conett/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Y-box Binding Protein-1 is Crucial in Acquired Drug Resistance Development in Metastatic Clear-Cell Renal Cell Carcinoma</title>
