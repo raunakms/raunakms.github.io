@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Aggarwal | Raunak Shrestha</title>
+    <link>/authors/r-aggarwal/</link>
+      <atom:link href="/authors/r-aggarwal/index.xml" rel="self" type="application/rss+xml" />
+    <description>R Aggarwal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>R Aggarwal</title>
+      <link>/authors/r-aggarwal/</link>
+    </image>
+    
+    <item>
+      <title>Autoantibody landscape of advanced prostate cancer</title>
+      <link>/publication/2020_prostateab/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_prostateab/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

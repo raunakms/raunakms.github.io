@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FY Feng | Raunak Shrestha</title>
+    <link>/authors/fy-feng/</link>
+      <atom:link href="/authors/fy-feng/index.xml" rel="self" type="application/rss+xml" />
+    <description>FY Feng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>FY Feng</title>
+      <link>/authors/fy-feng/</link>
+    </image>
+    
+    <item>
+      <title>Autoantibody landscape of advanced prostate cancer</title>
+      <link>/publication/2020_prostateab/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_prostateab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integrated functional and clinical genomics approach reveal genes driving aggressive metastatic prostate cancer</title>
+      <link>/publication/2020_prostatecrispr/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_prostatecrispr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
