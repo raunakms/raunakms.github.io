@@ -324,14 +324,6 @@
     </item>
     
     <item>
-      <title>C Sahinalp</title>
-      <link>/authors/c-sahinalp/</link>
-      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/c-sahinalp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>CC Collins</title>
       <link>/authors/cc-collins/</link>
       <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
@@ -368,6 +360,14 @@
       <link>/authors/s-turajlic/</link>
       <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/authors/s-turajlic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SC Sahinalp</title>
+      <link>/authors/sc-sahinalp/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/sc-sahinalp/</guid>
       <description></description>
     </item>
     
@@ -712,14 +712,6 @@
       <link>/authors/s-pulido-tamayo/</link>
       <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/authors/s-pulido-tamayo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SC Sahinalp</title>
-      <link>/authors/sc-sahinalp/</link>
-      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/sc-sahinalp/</guid>
       <description></description>
     </item>
     
@@ -1368,6 +1360,14 @@
       <link>/authors/j-lehar/</link>
       <pubDate>Fri, 18 Jul 2014 00:00:00 +0000</pubDate>
       <guid>/authors/j-lehar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H Beltran</title>
+      <link>/authors/h-beltran/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/h-beltran/</guid>
       <description></description>
     </item>
     
