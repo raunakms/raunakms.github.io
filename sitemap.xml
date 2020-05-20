@@ -4,12 +4,42 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/3/</loc>
-    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2020_cookingfuel/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rk-shrestha/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -24,11 +54,6 @@
   
   <url>
     <loc>/authors/a-vega-crespo/</loc>
-    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -128,27 +153,12 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/r-aggarwal/</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/r-waitz/</loc>
-    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -573,17 +583,7 @@
   </url>
   
   <url>
-    <loc>/publication/2019_cookingfuel/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/n-nabavi/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/rk-shrestha/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
   </url>
   

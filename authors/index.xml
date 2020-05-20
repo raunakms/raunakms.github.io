@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a Bioinformatics Post-doctoral Research Scholar working with 
 &lt;a href=&#34;http://fenglaboratory.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Felix Feng&lt;/a&gt; at the 
@@ -25,6 +25,14 @@
 &lt;a href=&#34;/pdf/cv_shrestha_raunak.pdf&#34;&gt;My Curriculum Vitae&lt;/a&gt;]  [
 &lt;a href=&#34;./pages/biography&#34;&gt;My Biography&lt;/a&gt;]&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>RK Shrestha</title>
+      <link>/authors/rk-shrestha/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/rk-shrestha/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -744,14 +752,6 @@
       <link>/authors/n-nabavi/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
       <guid>/authors/n-nabavi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RK Shrestha</title>
-      <link>/authors/rk-shrestha/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/rk-shrestha/</guid>
       <description></description>
     </item>
     
