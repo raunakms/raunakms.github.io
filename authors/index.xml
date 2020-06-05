@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,16 +15,121 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a Bioinformatics Post-doctoral Research Scholar working with 
 &lt;a href=&#34;http://fenglaboratory.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Felix Feng&lt;/a&gt; at the 
 &lt;a href=&#34;https://www.ucsf.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of California, San Francisco (UCSF)&lt;/a&gt;. I&amp;rsquo;m stationed at the 
-&lt;a href=&#34;http://cancer.ucsf.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UCSF Helen Diller Family Comprehensive Cancer Center&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;My research focuses on understanding molecular mechanisms of treatment-resistant prostate cancer through computational and statistical analysis of genomic data. [
+&lt;a href=&#34;http://cancer.ucsf.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UCSF Helen Diller Family Comprehensive Cancer Center&lt;/a&gt;. I&amp;rsquo;m also an Adjunct Research Scientist at 
+&lt;a href=&#34;https://www.naamii.com.np/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nepal Applied Mathematics &amp;amp; Informatics Institute (NAAMII)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My main interest lies in studying how complex patterns of high-throughput biology (-omics) data can be integrated and analyzed together to associate genotypes-to-phenotypes in clinical context. My research focuses on understanding molecular mechanisms of treatment-resistant prostate cancer through computational and statistical analysis of genomic data. [
 &lt;a href=&#34;/pdf/cv_shrestha_raunak.pdf&#34;&gt;My Curriculum Vitae&lt;/a&gt;]  [
 &lt;a href=&#34;./pages/biography&#34;&gt;My Biography&lt;/a&gt;]&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>DA Quigley</title>
+      <link>/authors/da-quigley/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/da-quigley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DR Wahl</title>
+      <link>/authors/dr-wahl/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/dr-wahl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Small</title>
+      <link>/authors/e-small/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/e-small/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FY Feng</title>
+      <link>/authors/fy-feng/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/fy-feng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JM Lang</title>
+      <link>/authors/jm-lang/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jm-lang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Sjostrom</title>
+      <link>/authors/m-sjostrom/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/m-sjostrom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Yu</title>
+      <link>/authors/m-yu/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/m-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Zhang</title>
+      <link>/authors/m-zhang/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/m-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N Rydzewski</title>
+      <link>/authors/n-rydzewski/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/n-rydzewski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Aggarwal</title>
+      <link>/authors/r-aggarwal/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/r-aggarwal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SG Zhao</title>
+      <link>/authors/sg-zhao/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/sg-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SL Chang</title>
+      <link>/authors/sl-chang/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/sl-chang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W Chen</title>
+      <link>/authors/w-chen/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/w-chen/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -68,14 +173,6 @@
     </item>
     
     <item>
-      <title>DA Quigley</title>
-      <link>/authors/da-quigley/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/da-quigley/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>DY Oh</title>
       <link>/authors/dy-oh/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
@@ -88,14 +185,6 @@
       <link>/authors/ej-small/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       <guid>/authors/ej-small/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FY Feng</title>
-      <link>/authors/fy-feng/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/fy-feng/</guid>
       <description></description>
     </item>
     
@@ -172,22 +261,6 @@
     </item>
     
     <item>
-      <title>M Sjostrom</title>
-      <link>/authors/m-sjostrom/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/m-sjostrom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M Zhang</title>
-      <link>/authors/m-zhang/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/m-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>P Lara</title>
       <link>/authors/p-lara/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
@@ -204,14 +277,6 @@
     </item>
     
     <item>
-      <title>R Aggarwal</title>
-      <link>/authors/r-aggarwal/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/r-aggarwal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>R Waitz</title>
       <link>/authors/r-waitz/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
@@ -224,14 +289,6 @@
       <link>/authors/re-reiter/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       <guid>/authors/re-reiter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SG Zhao</title>
-      <link>/authors/sg-zhao/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/sg-zhao/</guid>
       <description></description>
     </item>
     
