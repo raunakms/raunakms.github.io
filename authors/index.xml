@@ -501,7 +501,7 @@
     </item>
     
     <item>
-      <title>NM D&#39;Costa</title>
+      <title>NM D’Costa</title>
       <link>/authors/nm-dcosta/</link>
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/authors/nm-dcosta/</guid>
@@ -783,7 +783,7 @@
     <item>
       <title>A Churg</title>
       <link>/authors/a-churg/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/authors/a-churg/</guid>
       <description></description>
     </item>
@@ -791,7 +791,7 @@
     <item>
       <title>A Haegert</title>
       <link>/authors/a-haegert/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/authors/a-haegert/</guid>
       <description></description>
     </item>
@@ -799,15 +799,23 @@
     <item>
       <title>B McConeghy</title>
       <link>/authors/b-mcconeghy/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/authors/b-mcconeghy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F Sar</title>
+      <link>/authors/f-sar/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/f-sar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N Nabavi</title>
       <link>/authors/n-nabavi/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/authors/n-nabavi/</guid>
       <description></description>
     </item>
@@ -815,7 +823,7 @@
     <item>
       <title>S Anderson</title>
       <link>/authors/s-anderson/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/authors/s-anderson/</guid>
       <description></description>
     </item>
@@ -823,7 +831,7 @@
     <item>
       <title>S Brahmbhatt</title>
       <link>/authors/s-brahmbhatt/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/authors/s-brahmbhatt/</guid>
       <description></description>
     </item>
@@ -831,7 +839,7 @@
     <item>
       <title>S Le Bihan</title>
       <link>/authors/s-le-bihan/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/authors/s-le-bihan/</guid>
       <description></description>
     </item>
@@ -839,7 +847,7 @@
     <item>
       <title>S Volik</title>
       <link>/authors/s-volik/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/authors/s-volik/</guid>
       <description></description>
     </item>
@@ -847,7 +855,7 @@
     <item>
       <title>Y Wang</title>
       <link>/authors/y-wang/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/authors/y-wang/</guid>
       <description></description>
     </item>
