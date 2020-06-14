@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a Bioinformatics Post-doctoral Research Scholar working with 
 &lt;a href=&#34;http://fenglaboratory.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Felix Feng&lt;/a&gt; at the 
@@ -26,6 +26,102 @@
 &lt;a href=&#34;/pdf/cv_shrestha_raunak.pdf&#34;&gt;My Curriculum Vitae&lt;/a&gt;]  [
 &lt;a href=&#34;./pages/biography&#34;&gt;My Biography&lt;/a&gt;]&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A Churg</title>
+      <link>/authors/a-churg/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/a-churg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Haegert</title>
+      <link>/authors/a-haegert/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/a-haegert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B McConeghy</title>
+      <link>/authors/b-mcconeghy/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/b-mcconeghy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CC Collins</title>
+      <link>/authors/cc-collins/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/cc-collins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F Sar</title>
+      <link>/authors/f-sar/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/f-sar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N Nabavi</title>
+      <link>/authors/n-nabavi/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/n-nabavi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RH Bell</title>
+      <link>/authors/rh-bell/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/rh-bell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Anderson</title>
+      <link>/authors/s-anderson/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/s-anderson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Brahmbhatt</title>
+      <link>/authors/s-brahmbhatt/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/s-brahmbhatt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Le Bihan</title>
+      <link>/authors/s-le-bihan/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/s-le-bihan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Volik</title>
+      <link>/authors/s-volik/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/s-volik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y Wang</title>
+      <link>/authors/y-wang/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/y-wang/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -389,14 +485,6 @@
     </item>
     
     <item>
-      <title>CC Collins</title>
-      <link>/authors/cc-collins/</link>
-      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/cc-collins/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>E Hodzic</title>
       <link>/authors/e-hodzic/</link>
       <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
@@ -501,7 +589,7 @@
     </item>
     
     <item>
-      <title>NM D’Costa</title>
+      <title>NM D&#39;Costa</title>
       <link>/authors/nm-dcosta/</link>
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/authors/nm-dcosta/</guid>
@@ -561,14 +649,6 @@
       <link>/authors/h-asghari/</link>
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/authors/h-asghari/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RH Bell</title>
-      <link>/authors/rh-bell/</link>
-      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/rh-bell/</guid>
       <description></description>
     </item>
     
@@ -777,86 +857,6 @@
       <link>/authors/s-pulido-tamayo/</link>
       <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/authors/s-pulido-tamayo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Churg</title>
-      <link>/authors/a-churg/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/a-churg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Haegert</title>
-      <link>/authors/a-haegert/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/a-haegert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>B McConeghy</title>
-      <link>/authors/b-mcconeghy/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/b-mcconeghy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>F Sar</title>
-      <link>/authors/f-sar/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/f-sar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>N Nabavi</title>
-      <link>/authors/n-nabavi/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/n-nabavi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S Anderson</title>
-      <link>/authors/s-anderson/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/s-anderson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S Brahmbhatt</title>
-      <link>/authors/s-brahmbhatt/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/s-brahmbhatt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S Le Bihan</title>
-      <link>/authors/s-le-bihan/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/s-le-bihan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S Volik</title>
-      <link>/authors/s-volik/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/s-volik/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Y Wang</title>
-      <link>/authors/y-wang/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/y-wang/</guid>
       <description></description>
     </item>
     

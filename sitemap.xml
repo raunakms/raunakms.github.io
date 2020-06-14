@@ -4,16 +4,111 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/a-churg/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/a-haegert/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/b-mcconeghy/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/cc-collins/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/f-sar/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mesothelioma/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/n-nabavi/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rh-bell/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s-anderson/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s-brahmbhatt/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s-le-bihan/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s-volik/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2020_wdpm/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/y-wang/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/3/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,22 +163,7 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/r-aggarwal/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -303,16 +383,6 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/cc-collins/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/e-hodzic/</loc>
     <lastmod>2020-03-09T00:00:00+00:00</lastmod>
   </url>
@@ -355,11 +425,6 @@
   <url>
     <loc>/pages/research_statement/</loc>
     <lastmod>2020-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -449,11 +514,6 @@
   
   <url>
     <loc>/publication/2020_rcc/</loc>
-    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/rh-bell/</loc>
     <lastmod>2020-02-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -608,61 +668,6 @@
   </url>
   
   <url>
-    <loc>/authors/a-churg/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/a-haegert/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/b-mcconeghy/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/f-sar/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/n-nabavi/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/s-anderson/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/s-brahmbhatt/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/s-le-bihan/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/s-volik/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/2019_wdpm/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/y-wang/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/a-lowy/</loc>
     <lastmod>2019-02-07T00:00:00+00:00</lastmod>
   </url>
@@ -724,11 +729,6 @@
   
   <url>
     <loc>/authors/me-gleave/</loc>
-    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mesothelioma/</loc>
     <lastmod>2019-02-07T00:00:00+00:00</lastmod>
   </url>
   

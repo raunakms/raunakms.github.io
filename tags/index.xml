@@ -5,12 +5,20 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Mesothelioma</title>
+      <link>/tags/mesothelioma/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/mesothelioma/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Prostate Cancer</title>
@@ -33,14 +41,6 @@
       <link>/tags/networks/</link>
       <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/tags/networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mesothelioma</title>
-      <link>/tags/mesothelioma/</link>
-      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/mesothelioma/</guid>
       <description></description>
     </item>
     
