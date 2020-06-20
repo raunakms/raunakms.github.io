@@ -5,12 +5,20 @@
     <link>/authors/cc-collins/</link>
       <atom:link href="/authors/cc-collins/index.xml" rel="self" type="application/rss+xml" />
     <description>CC Collins</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Sat, 20 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>CC Collins</title>
       <link>/authors/cc-collins/</link>
     </image>
+    
+    <item>
+      <title>Multiomics Characterization of Potential Therapeutic Vulnerabilities in Low-grade Serous Ovarian Carcinoma</title>
+      <link>/publication/2020_lgsoc/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_lgsoc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Well-Differentiated Papillary Mesothelioma of the Peritoneum is Genetically Distinct from Malignant Mesothelioma</title>

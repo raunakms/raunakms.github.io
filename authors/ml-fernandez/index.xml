@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ML Fernandez | Raunak Shrestha</title>
+    <link>/authors/ml-fernandez/</link>
+      <atom:link href="/authors/ml-fernandez/index.xml" rel="self" type="application/rss+xml" />
+    <description>ML Fernandez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Sat, 20 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>ML Fernandez</title>
+      <link>/authors/ml-fernandez/</link>
+    </image>
+    
+    <item>
+      <title>Multiomics Characterization of Potential Therapeutic Vulnerabilities in Low-grade Serous Ovarian Carcinoma</title>
+      <link>/publication/2020_lgsoc/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_lgsoc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
