@@ -5,12 +5,21 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Conferences &amp; Events</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Wed, 31 Oct 2018 09:00:00 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Sun, 21 Jun 2020 10:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Conferences &amp; Events</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Cancer Genomics and Precision Oncology</title>
+      <link>/talk/20200621_kubic/</link>
+      <pubDate>Sun, 21 Jun 2020 10:00:00 +0000</pubDate>
+      <guid>/talk/20200621_kubic/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/fJhV9mG3ttw&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>First Nepal Winter-School on AI</title>

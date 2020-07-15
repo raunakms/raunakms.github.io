@@ -5,12 +5,30 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Raunak Shrestha</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Sat, 20 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Raunak Shrestha</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Identification of Conserved Evolutionary Trajectories in Tumors</title>
+      <link>/publication/2020_conett/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_conett/</guid>
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Delighted to share our paper describing an algorithm CONETT to identify Conserved Evolutionary Trajectory Tree from multiple tumors. This paper will be presented at the &lt;a href=&#34;https://twitter.com/hashtag/ISMB2020?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ISMB2020&lt;/a&gt; conference next week. &lt;a href=&#34;https://twitter.com/cenksahinalp?ref_src=twsrc%5Etfw&#34;&gt;@cenksahinalp&lt;/a&gt; &lt;a href=&#34;https://t.co/9uMAoaPDoQ&#34;&gt;https://t.co/9uMAoaPDoQ&lt;/a&gt; &lt;a href=&#34;https://t.co/uV1NO23tDe&#34;&gt;pic.twitter.com/uV1NO23tDe&lt;/a&gt;&lt;/p&gt;&amp;mdash; Raunak Shrestha (@raunakms) &lt;a href=&#34;https://twitter.com/raunakms/status/1283257549697896448?ref_src=twsrc%5Etfw&#34;&gt;July 15, 2020&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cancer Genomics and Precision Oncology</title>
+      <link>/talk/20200621_kubic/</link>
+      <pubDate>Sun, 21 Jun 2020 10:00:00 +0000</pubDate>
+      <guid>/talk/20200621_kubic/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/fJhV9mG3ttw&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>Multiomics Characterization of Potential Therapeutic Vulnerabilities in Low-grade Serous Ovarian Carcinoma</title>
@@ -131,14 +149,6 @@
       <link>/project/prostate_cancer/</link>
       <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/project/prostate_cancer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identification of Conserved Evolutionary Trajectories in Tumors</title>
-      <link>/publication/2020_conett/</link>
-      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020_conett/</guid>
       <description></description>
     </item>
     

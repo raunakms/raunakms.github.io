@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Sat, 20 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,17 +15,65 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a Bioinformatics Post-doctoral Research Scholar working with 
 &lt;a href=&#34;http://fenglaboratory.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Felix Feng&lt;/a&gt; at the 
 &lt;a href=&#34;https://www.ucsf.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of California, San Francisco (UCSF)&lt;/a&gt;. I&amp;rsquo;m stationed at the 
-&lt;a href=&#34;http://cancer.ucsf.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UCSF Helen Diller Family Comprehensive Cancer Center&lt;/a&gt;. I&amp;rsquo;m also an Adjunct Facutly at 
+&lt;a href=&#34;http://cancer.ucsf.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UCSF Helen Diller Family Comprehensive Cancer Center&lt;/a&gt;. I&amp;rsquo;m also an Adjunct Research Scientist at 
 &lt;a href=&#34;https://www.naamii.com.np/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nepal Applied Mathematics &amp;amp; Informatics Institute (NAAMII)&lt;/a&gt; where I&amp;rsquo;m leading a Bioinformatics team.&lt;/p&gt;
 &lt;p&gt;My main interest lies in studying how complex patterns of high-throughput biology (-omics) data can be integrated and analyzed together to associate genotypes-to-phenotypes in clinical context. My research focuses on understanding molecular mechanisms of treatment-resistant prostate cancer through computational and statistical analysis of genomic data. [
 &lt;a href=&#34;/pdf/cv_shrestha_raunak.pdf&#34;&gt;My Curriculum Vitae&lt;/a&gt;]  [
 &lt;a href=&#34;./pages/biography&#34;&gt;My Biography&lt;/a&gt;]&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>CC Collins</title>
+      <link>/authors/cc-collins/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/cc-collins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Hodzic</title>
+      <link>/authors/e-hodzic/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/e-hodzic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K Litchfield</title>
+      <link>/authors/k-litchfield/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/k-litchfield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Malikic</title>
+      <link>/authors/s-malikic/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/s-malikic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Turajlic</title>
+      <link>/authors/s-turajlic/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/s-turajlic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SC Sahinalp</title>
+      <link>/authors/sc-sahinalp/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/sc-sahinalp/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -49,14 +97,6 @@
       <link>/authors/b-mcconeghy/</link>
       <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/authors/b-mcconeghy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CC Collins</title>
-      <link>/authors/cc-collins/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/cc-collins/</guid>
       <description></description>
     </item>
     
@@ -553,46 +593,6 @@
       <link>/authors/s-kabir/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>/authors/s-kabir/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E Hodzic</title>
-      <link>/authors/e-hodzic/</link>
-      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/e-hodzic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K Litchfield</title>
-      <link>/authors/k-litchfield/</link>
-      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/k-litchfield/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S Malikic</title>
-      <link>/authors/s-malikic/</link>
-      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/s-malikic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S Turajlic</title>
-      <link>/authors/s-turajlic/</link>
-      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/s-turajlic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SC Sahinalp</title>
-      <link>/authors/sc-sahinalp/</link>
-      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/sc-sahinalp/</guid>
       <description></description>
     </item>
     
