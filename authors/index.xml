@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a Bioinformatics Post-doctoral Research Scholar working with 
 &lt;a href=&#34;http://fenglaboratory.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Felix Feng&lt;/a&gt; at the 
@@ -26,6 +26,230 @@
 &lt;a href=&#34;/pdf/cv_shrestha_raunak.pdf&#34;&gt;My Curriculum Vitae&lt;/a&gt;]  [
 &lt;a href=&#34;./pages/biography&#34;&gt;My Biography&lt;/a&gt;]&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A Foye</title>
+      <link>/authors/a-foye/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/a-foye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Ribas</title>
+      <link>/authors/a-ribas/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/a-ribas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Vega-Crespo</title>
+      <link>/authors/a-vega-crespo/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/a-vega-crespo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CP Evans</title>
+      <link>/authors/cp-evans/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/cp-evans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DA Quigley</title>
+      <link>/authors/da-quigley/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/da-quigley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DY Oh</title>
+      <link>/authors/dy-oh/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/dy-oh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EJ Small</title>
+      <link>/authors/ej-small/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/ej-small/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FY Feng</title>
+      <link>/authors/fy-feng/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/fy-feng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IB Carretero</title>
+      <link>/authors/ib-carretero/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/ib-carretero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IG Perez</title>
+      <link>/authors/ig-perez/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/ig-perez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Chou</title>
+      <link>/authors/j-chou/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/j-chou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JC Shon</title>
+      <link>/authors/jc-shon/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jc-shon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JJ Alumkal</title>
+      <link>/authors/jj-alumkal/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jj-alumkal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K Kamath</title>
+      <link>/authors/k-kamath/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/k-kamath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KN Chi</title>
+      <link>/authors/kn-chi/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/kn-chi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Gleave</title>
+      <link>/authors/m-gleave/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/m-gleave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Rettig</title>
+      <link>/authors/m-rettig/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/m-rettig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Sjostrom</title>
+      <link>/authors/m-sjostrom/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/m-sjostrom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Zhang</title>
+      <link>/authors/m-zhang/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/m-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Lara</title>
+      <link>/authors/p-lara/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/p-lara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PS Daugherty</title>
+      <link>/authors/ps-daugherty/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/ps-daugherty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Aggarwal</title>
+      <link>/authors/r-aggarwal/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/r-aggarwal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Waitz</title>
+      <link>/authors/r-waitz/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/r-waitz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RE Reiter</title>
+      <link>/authors/re-reiter/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/re-reiter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SG Zhao</title>
+      <link>/authors/sg-zhao/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/sg-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TM Beer</title>
+      <link>/authors/tm-beer/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/tm-beer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WA Haynes</title>
+      <link>/authors/wa-haynes/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/wa-haynes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WS Chen</title>
+      <link>/authors/ws-chen/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/ws-chen/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -237,14 +461,6 @@
     </item>
     
     <item>
-      <title>DA Quigley</title>
-      <link>/authors/da-quigley/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/da-quigley/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>DR Wahl</title>
       <link>/authors/dr-wahl/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
@@ -261,26 +477,10 @@
     </item>
     
     <item>
-      <title>FY Feng</title>
-      <link>/authors/fy-feng/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/fy-feng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>JM Lang</title>
       <link>/authors/jm-lang/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/authors/jm-lang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M Sjostrom</title>
-      <link>/authors/m-sjostrom/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/m-sjostrom/</guid>
       <description></description>
     </item>
     
@@ -293,34 +493,10 @@
     </item>
     
     <item>
-      <title>M Zhang</title>
-      <link>/authors/m-zhang/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/m-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>N Rydzewski</title>
       <link>/authors/n-rydzewski/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/authors/n-rydzewski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Aggarwal</title>
-      <link>/authors/r-aggarwal/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/r-aggarwal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SG Zhao</title>
-      <link>/authors/sg-zhao/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/sg-zhao/</guid>
       <description></description>
     </item>
     
@@ -345,182 +521,6 @@
       <link>/authors/rk-shrestha/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       <guid>/authors/rk-shrestha/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Foye</title>
-      <link>/authors/a-foye/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/a-foye/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Ribas</title>
-      <link>/authors/a-ribas/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/a-ribas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Vega-Crespo</title>
-      <link>/authors/a-vega-crespo/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/a-vega-crespo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CP Evans</title>
-      <link>/authors/cp-evans/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/cp-evans/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DY Oh</title>
-      <link>/authors/dy-oh/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/dy-oh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EJ Small</title>
-      <link>/authors/ej-small/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/ej-small/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IB Carretero</title>
-      <link>/authors/ib-carretero/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/ib-carretero/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IG Perez</title>
-      <link>/authors/ig-perez/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/ig-perez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J Chou</title>
-      <link>/authors/j-chou/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/j-chou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JC Shon</title>
-      <link>/authors/jc-shon/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/jc-shon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JJ Alumkal</title>
-      <link>/authors/jj-alumkal/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/jj-alumkal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K Kamath</title>
-      <link>/authors/k-kamath/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/k-kamath/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>KN Chi</title>
-      <link>/authors/kn-chi/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/kn-chi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M Gleave</title>
-      <link>/authors/m-gleave/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/m-gleave/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M Rettig</title>
-      <link>/authors/m-rettig/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/m-rettig/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>P Lara</title>
-      <link>/authors/p-lara/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/p-lara/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PS Daugherty</title>
-      <link>/authors/ps-daugherty/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/ps-daugherty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Waitz</title>
-      <link>/authors/r-waitz/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/r-waitz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RE Reiter</title>
-      <link>/authors/re-reiter/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/re-reiter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TM Beer</title>
-      <link>/authors/tm-beer/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/tm-beer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WA Haynes</title>
-      <link>/authors/wa-haynes/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/wa-haynes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WS Chen</title>
-      <link>/authors/ws-chen/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/ws-chen/</guid>
       <description></description>
     </item>
     

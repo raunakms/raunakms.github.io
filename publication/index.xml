@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Raunak Shrestha</copyright><lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Autoantibody landscape in patients with advanced prostate cancer</title>
+      <link>/publication/2020_prostateab/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_prostateab/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Identification of Conserved Evolutionary Trajectories in Tumors</title>
@@ -51,14 +59,6 @@
       <link>/publication/2020_cookingfuel/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       <guid>/publication/2020_cookingfuel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Autoantibody landscape of advanced prostate cancer</title>
-      <link>/publication/2020_prostateab/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020_prostateab/</guid>
       <description></description>
     </item>
     
