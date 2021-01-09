@@ -223,11 +223,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/a-dawson/</loc>
     <lastmod>2020-06-20T00:00:00+00:00</lastmod>
   </url>
@@ -279,6 +274,11 @@
   
   <url>
     <loc>/publication/2020_lgsoc/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/n-wong/</loc>
     <lastmod>2020-06-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -350,6 +350,11 @@
   <url>
     <loc>/authors/y-wang/</loc>
     <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
