@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Raunak Shrestha</copyright><lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Raunak Shrestha</copyright><lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a Bioinformatics Post-doctoral Research Scholar working with 
 &lt;a href=&#34;http://fenglaboratory.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Felix Feng&lt;/a&gt; at the 
@@ -26,6 +26,158 @@
 &lt;a href=&#34;/pdf/cv_shrestha_raunak.pdf&#34;&gt;My Curriculum Vitae&lt;/a&gt;]  [
 &lt;a href=&#34;./pages/biography&#34;&gt;My Biography&lt;/a&gt;]&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A Dawson</title>
+      <link>/authors/a-dawson/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/a-dawson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Haegert</title>
+      <link>/authors/a-haegert/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/a-haegert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B McConeghy</title>
+      <link>/authors/b-mcconeghy/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/b-mcconeghy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Lee</title>
+      <link>/authors/c-lee/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/c-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CC Collins</title>
+      <link>/authors/cc-collins/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/cc-collins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GB Morin</title>
+      <link>/authors/gb-morin/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/gb-morin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GE DiMattia</title>
+      <link>/authors/ge-dimattia/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/ge-dimattia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H Kim</title>
+      <link>/authors/h-kim/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/h-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Hoenisch</title>
+      <link>/authors/j-hoenisch/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/j-hoenisch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Llaurado Fernandez</title>
+      <link>/authors/m-llaurado-fernandez/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/m-llaurado-fernandez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MS Carey</title>
+      <link>/authors/ms-carey/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/ms-carey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N Wong</title>
+      <link>/authors/n-wong/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/n-wong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RH Bell</title>
+      <link>/authors/rh-bell/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/rh-bell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Anderson</title>
+      <link>/authors/s-anderson/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/s-anderson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Brahmbhatt</title>
+      <link>/authors/s-brahmbhatt/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/s-brahmbhatt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Colborne</title>
+      <link>/authors/s-colborne/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/s-colborne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Le Bihan</title>
+      <link>/authors/s-le-bihan/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/s-le-bihan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Volik</title>
+      <link>/authors/s-volik/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/s-volik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y Lin</title>
+      <link>/authors/y-lin/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/y-lin/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -253,14 +405,6 @@
     </item>
     
     <item>
-      <title>CC Collins</title>
-      <link>/authors/cc-collins/</link>
-      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/cc-collins/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>E Hodzic</title>
       <link>/authors/e-hodzic/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
@@ -297,150 +441,6 @@
       <link>/authors/sc-sahinalp/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
       <guid>/authors/sc-sahinalp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Dawson</title>
-      <link>/authors/a-dawson/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/a-dawson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Haegert</title>
-      <link>/authors/a-haegert/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/a-haegert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>B McConeghy</title>
-      <link>/authors/b-mcconeghy/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/b-mcconeghy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C Lee</title>
-      <link>/authors/c-lee/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/c-lee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GB Morin</title>
-      <link>/authors/gb-morin/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/gb-morin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GE DiMattia</title>
-      <link>/authors/ge-dimattia/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/ge-dimattia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>H Kim</title>
-      <link>/authors/h-kim/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/h-kim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J Hoenisch</title>
-      <link>/authors/j-hoenisch/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/j-hoenisch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M Llaurado Fernandez</title>
-      <link>/authors/m-llaurado-fernandez/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/m-llaurado-fernandez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MS Carey</title>
-      <link>/authors/ms-carey/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/ms-carey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>N Wong</title>
-      <link>/authors/n-wong/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/n-wong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RH Bell</title>
-      <link>/authors/rh-bell/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/rh-bell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S Anderson</title>
-      <link>/authors/s-anderson/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/s-anderson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S Brahmbhatt</title>
-      <link>/authors/s-brahmbhatt/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/s-brahmbhatt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S Colborne</title>
-      <link>/authors/s-colborne/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/s-colborne/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S Le Bihan</title>
-      <link>/authors/s-le-bihan/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/s-le-bihan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S Volik</title>
-      <link>/authors/s-volik/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/s-volik/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Y Lin</title>
-      <link>/authors/y-lin/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/y-lin/</guid>
       <description></description>
     </item>
     
