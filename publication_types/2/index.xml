@@ -5,12 +5,20 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Raunak Shrestha</copyright><lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Raunak Shrestha</copyright><lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>2</title>
       <link>/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>An integrated functional and clinical genomics approach reveals genes driving aggressive metastatic prostate cancer</title>
+      <link>/publication/2021_prostatecrispr/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021_prostatecrispr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multiomics Characterization of Low-grade Serous Ovarian Carcinoma Identifies Potential Biomarkers of MEK-inhibitor Sensitivity and Therapeutic Vulnerability</title>

@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Raunak Shrestha</copyright><lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Raunak Shrestha</copyright><lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a Bioinformatics Post-doctoral Research Scholar working with 
 &lt;a href=&#34;http://fenglaboratory.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Felix Feng&lt;/a&gt; at the 
@@ -26,6 +26,166 @@
 &lt;a href=&#34;/pdf/cv_shrestha_raunak.pdf&#34;&gt;My Curriculum Vitae&lt;/a&gt;]  [
 &lt;a href=&#34;./pages/biography&#34;&gt;My Biography&lt;/a&gt;]&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A Ashworth</title>
+      <link>/authors/a-ashworth/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/a-ashworth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Ge</title>
+      <link>/authors/a-ge/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/a-ge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Yogodzinski</title>
+      <link>/authors/c-yogodzinski/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/c-yogodzinski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DA Quigley</title>
+      <link>/authors/da-quigley/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/da-quigley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DK Dang</title>
+      <link>/authors/dk-dang/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/dk-dang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EA Egusa</title>
+      <link>/authors/ea-egusa/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/ea-egusa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EJ Small</title>
+      <link>/authors/ej-small/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/ej-small/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FY Feng</title>
+      <link>/authors/fy-feng/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/fy-feng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Chou</title>
+      <link>/authors/j-chou/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/j-chou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JT Hua</title>
+      <link>/authors/jt-hua/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/jt-hua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JT Swinderman</title>
+      <link>/authors/jt-swinderman/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/jt-swinderman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Chesner</title>
+      <link>/authors/l-chesner/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/l-chesner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LA Gilbert</title>
+      <link>/authors/la-gilbert/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/la-gilbert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Sjostrom</title>
+      <link>/authors/m-sjostrom/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/m-sjostrom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Das</title>
+      <link>/authors/r-das/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/r-das/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Kabir</title>
+      <link>/authors/s-kabir/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/s-kabir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WS Chen</title>
+      <link>/authors/ws-chen/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/ws-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Baniya</title>
+      <link>/authors/j-baniya/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/j-baniya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RK Shrestha</title>
+      <link>/authors/rk-shrestha/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/rk-shrestha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Shneiderman</title>
+      <link>/authors/s-shneiderman/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/s-shneiderman/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -213,34 +373,10 @@
     </item>
     
     <item>
-      <title>DA Quigley</title>
-      <link>/authors/da-quigley/</link>
-      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/da-quigley/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>DY Oh</title>
       <link>/authors/dy-oh/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/authors/dy-oh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EJ Small</title>
-      <link>/authors/ej-small/</link>
-      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/ej-small/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FY Feng</title>
-      <link>/authors/fy-feng/</link>
-      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/fy-feng/</guid>
       <description></description>
     </item>
     
@@ -257,14 +393,6 @@
       <link>/authors/ig-perez/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/authors/ig-perez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J Chou</title>
-      <link>/authors/j-chou/</link>
-      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/j-chou/</guid>
       <description></description>
     </item>
     
@@ -313,14 +441,6 @@
       <link>/authors/m-rettig/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/authors/m-rettig/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M Sjostrom</title>
-      <link>/authors/m-sjostrom/</link>
-      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/m-sjostrom/</guid>
       <description></description>
     </item>
     
@@ -393,14 +513,6 @@
       <link>/authors/wa-haynes/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/authors/wa-haynes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WS Chen</title>
-      <link>/authors/ws-chen/</link>
-      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/ws-chen/</guid>
       <description></description>
     </item>
     
@@ -529,86 +641,6 @@
       <link>/authors/w-chen/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/authors/w-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RK Shrestha</title>
-      <link>/authors/rk-shrestha/</link>
-      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/rk-shrestha/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Ashworth</title>
-      <link>/authors/a-ashworth/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/a-ashworth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Ge</title>
-      <link>/authors/a-ge/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/a-ge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C Yogodzinski</title>
-      <link>/authors/c-yogodzinski/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/c-yogodzinski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DK Dang</title>
-      <link>/authors/dk-dang/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/dk-dang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EA Egusa</title>
-      <link>/authors/ea-egusa/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/ea-egusa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L Chesner</title>
-      <link>/authors/l-chesner/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/l-chesner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LA Gilbert</title>
-      <link>/authors/la-gilbert/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/la-gilbert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Das</title>
-      <link>/authors/r-das/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/r-das/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S Kabir</title>
-      <link>/authors/s-kabir/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/s-kabir/</guid>
       <description></description>
     </item>
     
