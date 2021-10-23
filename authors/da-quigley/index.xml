@@ -5,12 +5,20 @@
     <link>/authors/da-quigley/</link>
       <atom:link href="/authors/da-quigley/index.xml" rel="self" type="application/rss+xml" />
     <description>DA Quigley</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Raunak Shrestha</copyright><lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Raunak Shrestha</copyright><lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>DA Quigley</title>
       <link>/authors/da-quigley/</link>
     </image>
+    
+    <item>
+      <title>Predicting Cancer Drug TARGETS - TreAtment Response GlmnET Signatures</title>
+      <link>/publication/2021_target/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021_target/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An integrated functional and clinical genomics approach reveals genes driving aggressive metastatic prostate cancer</title>
@@ -25,14 +33,6 @@
       <link>/publication/2020_prostateab/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/publication/2020_prostateab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predicting Cancer Drug TARGETS - TreAtment Response GlmnET Signatures</title>
-      <link>/publication/2020_target/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020_target/</guid>
       <description></description>
     </item>
     

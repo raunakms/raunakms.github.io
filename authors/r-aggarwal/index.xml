@@ -5,7 +5,7 @@
     <link>/authors/r-aggarwal/</link>
       <atom:link href="/authors/r-aggarwal/index.xml" rel="self" type="application/rss+xml" />
     <description>R Aggarwal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Raunak Shrestha</copyright><lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Raunak Shrestha</copyright><lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>R Aggarwal</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Autoantibody landscape in patients with advanced prostate cancer</title>
-      <link>/publication/2020_prostateab/</link>
-      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020_prostateab/</guid>
+      <title>Predicting Cancer Drug TARGETS - TreAtment Response GlmnET Signatures</title>
+      <link>/publication/2021_target/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021_target/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Predicting Cancer Drug TARGETS - TreAtment Response GlmnET Signatures</title>
-      <link>/publication/2020_target/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020_target/</guid>
+      <title>Autoantibody landscape in patients with advanced prostate cancer</title>
+      <link>/publication/2020_prostateab/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_prostateab/</guid>
       <description></description>
     </item>
     
