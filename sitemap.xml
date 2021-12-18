@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/talk/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/20211229_ai_ktm/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2021-09-21T00:00:00+00:00</lastmod>
   </url>
@@ -79,11 +94,6 @@
   
   <url>
     <loc>/authors/r-aggarwal/</loc>
-    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2021-09-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -434,11 +444,6 @@
   
   <url>
     <loc>/talk/20200621_kubic/</loc>
-    <lastmod>2020-06-21T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
     <lastmod>2020-06-21T10:00:00+00:00</lastmod>
   </url>
   

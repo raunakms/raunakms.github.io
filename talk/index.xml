@@ -5,12 +5,20 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Conferences &amp; Events</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Raunak Shrestha</copyright><lastBuildDate>Sun, 21 Jun 2020 10:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Raunak Shrestha</copyright><lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Conferences &amp; Events</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Third Nepal Winter-School in AI</title>
+      <link>/talk/20211229_ai_ktm/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/20211229_ai_ktm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cancer Genomics and Precision Oncology</title>
@@ -22,7 +30,7 @@
     </item>
     
     <item>
-      <title>First Nepal Winter-School on AI</title>
+      <title>First Nepal Winter-School in AI</title>
       <link>/talk/20181220_ai_ktm/</link>
       <pubDate>Wed, 31 Oct 2018 09:00:00 -0700</pubDate>
       <guid>/talk/20181220_ai_ktm/</guid>
