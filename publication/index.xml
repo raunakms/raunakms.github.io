@@ -5,12 +5,36 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Raunak Shrestha</copyright><lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>The genomic and epigenomic landscape of double-negative metastatic prostate cancer</title>
+      <link>/publication/2023_dnpc/</link>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023_dnpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Reconstruction: What Leads to Satisfaction in Post-Disaster Recovery?</title>
+      <link>/publication/2023_happiness/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023_happiness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 5-Hydroxymethylcytosine Landscape of Prostate Cancer</title>
+      <link>/publication/2022_prostate5hmc/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022_prostate5hmc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Predicting Cancer Drug TARGETS - TreAtment Response GlmnET Signatures</title>
@@ -25,14 +49,6 @@
       <link>/publication/2021_prostatecrispr/</link>
       <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
       <guid>/publication/2021_prostatecrispr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beyond reconstruction: what leads to satisfaction in post-disaster recovery?</title>
-      <link>/publication/2021_happiness/</link>
-      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_happiness/</guid>
       <description></description>
     </item>
     
