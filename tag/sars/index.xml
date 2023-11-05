@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SARS | Raunak Shrestha</title>
+    <link>/tag/sars/</link>
+      <atom:link href="/tag/sars/index.xml" rel="self" type="application/rss+xml" />
+    <description>SARS</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>SARS</title>
+      <link>/tag/sars/</link>
+    </image>
+    
+    <item>
+      <title>Genomic epidemiology of SARS-CoV-2</title>
+      <link>/research_naamii/covid19_genomics/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/research_naamii/covid19_genomics/</guid>
+      <description>&lt;p&gt;The coronavirus disease 2019 (COVID-19), caused by the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) rapidly escalated into a global pandemic. Nepal detected its first case in January 2020, and since then, the country has grappled with over a million infections and a significant loss of life. Throughout the pandemic, scientists have diligently studied the virus&amp;rsquo;s genetic composition and its evolving transmission patterns. Various geographic regions have experienced multiple waves of infection, each dominated by a novel virus variant. Notably, some of these emerging strains pose challenges to the effectiveness of existing vaccines. Understanding these variants, their origins, and their spread within communities is crucial for future pandemic preparedness. In Nepal, researchers have made significant progress by sharing thousands of SARS-CoV-2 genome sequences publicly. However, comprehensive investigation on these cases has not been conducted till date. This study aims to conduct a comprehensive genomic analysis of SARS-CoV-2 transmission in Nepal. We will investigate virus&amp;rsquo;s genetic diversity, evolutionary trajectory, and epidemiological patterns. Our long-term vision is to create bioinformatics pipelines and platforms which could be readily deployed in case of any future epidemics or pandemics which will help us understand the transmission of the infectious disease and enable rapid intervention of the disease. Toward this goal, we have created the “Nepal SARS-CoV-2 Genome Database”, a comprehensive phylogenetic clustering of SARS-CoV-2 genomes from Nepal using Nextstrain, a powerful open-source tool for the real-time interactive visualization of genome sequencing data.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
