@@ -50,6 +50,10 @@
     <lastmod>2023-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>/research_naamii/tb_drug_resistance/</loc>
+    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/research_naamii/</loc>
     <lastmod>2023-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -59,10 +63,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tag/tuberculosis/</loc>
-    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/research_naamii/tb_drug_resistance/</loc>
     <lastmod>2023-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -88,6 +88,10 @@
   </url><url>
     <loc>/tag/sars/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/talk/bioinformatics-for-predision-oncology/</loc>
+    <lastmod>2022-11-24T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/2022_prostate5hmc/</loc>
