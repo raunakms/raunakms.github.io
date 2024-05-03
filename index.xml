@@ -717,10 +717,13 @@ barplot(rev(df20$n), width=1, names.arg=rev(df20$journal),
       <description>&lt;h3 id=&#34;software&#34;&gt;Software&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/sfu-compbio/hitndrive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;HIT&amp;rsquo;nDRIVE&lt;/strong&gt;&lt;/a&gt; - An algorithm for cancer driver genes prioritization&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/sfu-compbio/hitndrive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;HIT&amp;rsquo;nDRIVE&lt;/strong&gt;&lt;/a&gt; - Combinatorial optimization algorithm for cancer driver genes prioritization&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/ehodzic/cd-CAP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;cd-CAP&lt;/strong&gt;&lt;/a&gt; - Combinatorial Detection of Conserved Alteration Patterns for Identifying Cancer Subnetworks&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ehodzic/CONETT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CONETT&lt;/strong&gt;&lt;/a&gt; - Combinatorial optimization algorithm for identification of conserved evolutionary trajectories in tumors&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;data-analytics&#34;&gt;Data Analytics&lt;/h3&gt;
