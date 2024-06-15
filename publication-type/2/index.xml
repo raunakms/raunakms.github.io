@@ -5,12 +5,36 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>An Atlas of Accessible Chromatin in Advanced Prostate Cancer Reveals the Epigenetic Evolution during Tumor Progression</title>
+      <link>/publication/2024_wcdt_atacseq/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/2024_wcdt_atacseq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative analysis of ultra-deep RNA-seq reveals alternative promoter usage as a mechanism of activating oncogenic programmes during prostate cancer progression</title>
+      <link>/publication/2024_alternative_promoter/</link>
+      <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/2024_alternative_promoter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactions between the 3D-genome and DNA, RNA, and epigenomic alterations in metastatic prostate cancer</title>
+      <link>/publication/2024_wcdt_hic/</link>
+      <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/2024_wcdt_hic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The genomic and epigenomic landscape of double-negative metastatic prostate cancer</title>
