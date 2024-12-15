@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FY Feng on Raunak Shrestha</title>
+    <link>/authors/fy-feng/</link>
+    <description>Recent content in FY Feng on Raunak Shrestha</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year} Raunak Shrestha</copyright>
+    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/fy-feng/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Androgen receptor inhibition increases MHC Class I expression and improves immune response in prostate cancer</title>
+      <link>/publication/2024_mhc/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024_mhc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Atlas of Accessible Chromatin in Advanced Prostate Cancer Reveals the Epigenetic Evolution during Tumor Progression</title>
+      <link>/publication/2024_wcdt_atacseq/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024_wcdt_atacseq/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integrated analyses highlight interactions between the three-dimensional genome and DNA, RNA and epigenomic alterations in metastatic prostate cancer</title>
+      <link>/publication/2024_wcdt_hic/</link>
+      <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024_wcdt_hic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative analysis of ultra-deep RNA-seq reveals alternative promoter usage as a mechanism of activating oncogenic programmes during prostate cancer progression</title>
+      <link>/publication/2024_alternative_promoter/</link>
+      <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024_alternative_promoter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The genomic and epigenomic landscape of double-negative metastatic prostate cancer</title>
+      <link>/publication/2023_dnpc/</link>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2023_dnpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 5-Hydroxymethylcytosine Landscape of Prostate Cancer</title>
+      <link>/publication/2022_prostate5hmc/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022_prostate5hmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Cancer Drug TARGETS - TreAtment Response GlmnET Signatures</title>
+      <link>/publication/2021_target/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2021_target/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integrated functional and clinical genomics approach reveals genes driving aggressive metastatic prostate cancer</title>
+      <link>/publication/2021_prostatecrispr/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2021_prostatecrispr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autoantibody landscape in patients with advanced prostate cancer</title>
+      <link>/publication/2020_prostateab/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2020_prostateab/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

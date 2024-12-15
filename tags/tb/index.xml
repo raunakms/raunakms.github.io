@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TB on Raunak Shrestha</title>
+    <link>/tags/tb/</link>
+    <description>Recent content in TB on Raunak Shrestha</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year} Raunak Shrestha</copyright>
+    <lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/tb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Predicting drug-resistant Tuberculosis</title>
+      <link>/research_naamii/tb_drug_resistance/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/research_naamii/tb_drug_resistance/</guid>
+      <description>&lt;h2 id=&#34;systems-genomics-modelling-of-drug-resistance-in-mycobacterium-tuberculosis-br&#34;&gt;Systems Genomics Modelling of Drug Resistance in Mycobacterium tuberculosis &lt;!-- raw HTML omitted --&gt;&lt;/h2&gt;
+&lt;p&gt;Multi-drug resistance presents a growing challenge to global tuberculosis (TB) control efforts, with a particularly pressing concern in developing nations where robust disease surveillance and monitoring are lacking. Nepal is one of the countries with a high TB burden. TB is caused by an airborne bacterium, &lt;em&gt;Mycobacterium tuberculosis&lt;/em&gt; (Mtb). Treatment for TB involves antibiotics, however, some Mtb becomes resistant to these drugs, forming drug-resistant TB, which is rapidly increasing and poses a major health threat. The emergence of drug resistance TB is linked to specific mutations in Mtb genome. However, the genetic foundations of drug resistance in TB are not fully understood. The existing catalog of well-characterized Mtb drug-resistant mutations falls short in elucidating numerous instances of drug-resistant TB. Identifying new drug-resistant TB mutations is challenging given the genetic diversity of TB and the complex mechanisms driving the drug resistance. To address these challenges, here, we aim to develop a machine learning method to predict drug-resistant TB leveraging a large pool of TB genomic data. Additionally, we will explore the underlying metabolic adaptation in drug-resistant TB using genome-scale metabolic modeling.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Research Funded by&lt;/strong&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/research_naamii/tb_drug_resistance/gallery/1_logo_rstmh.png&#34; &gt;
+  &lt;img src=&#34;/research_naamii/tb_drug_resistance/gallery/1_logo_rstmh_hu83a0c59349eeaf5bea72ec89d2084b18_18961_0x190_resize_lanczos_3.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/research_naamii/tb_drug_resistance/gallery/2_logo_nihr.png&#34; &gt;
+  &lt;img src=&#34;/research_naamii/tb_drug_resistance/gallery/2_logo_nihr_hu5f34ba98764e9c41a855e1ba33bdb9f3_10444_0x190_resize_lanczos_3.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/research_naamii/tb_drug_resistance/gallery/3_logo_jidcuk.png&#34; &gt;
+  &lt;img src=&#34;/research_naamii/tb_drug_resistance/gallery/3_logo_jidcuk_hub6fa736ff47010dd27380791ecba3ee5_18861_0x190_resize_lanczos_3.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

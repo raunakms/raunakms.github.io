@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BK Dhillon on Raunak Shrestha</title>
+    <link>/authors/bk-dhillon/</link>
+    <description>Recent content in BK Dhillon on Raunak Shrestha</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year} Raunak Shrestha</copyright>
+    <lastBuildDate>Tue, 27 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/bk-dhillon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>High-throughput detection of RNA processing in bacteria</title>
+      <link>/publication/2018_rnabacteria/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018_rnabacteria/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

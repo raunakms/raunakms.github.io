@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JM Lang on Raunak Shrestha</title>
+    <link>/authors/jm-lang/</link>
+    <description>Recent content in JM Lang on Raunak Shrestha</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year} Raunak Shrestha</copyright>
+    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/jm-lang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The 5-Hydroxymethylcytosine Landscape of Prostate Cancer</title>
+      <link>/publication/2022_prostate5hmc/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022_prostate5hmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Cancer Drug TARGETS - TreAtment Response GlmnET Signatures</title>
+      <link>/publication/2021_target/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2021_target/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

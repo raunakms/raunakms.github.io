@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networks on Raunak Shrestha</title>
+    <link>/tags/networks/</link>
+    <description>Recent content in Networks on Raunak Shrestha</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year} Raunak Shrestha</copyright>
+    <lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/networks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Identification of Conserved Evolutionary Trajectories in Tumors</title>
+      <link>/publication/2020_conett/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2020_conett/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pathway and network analysis of more than 2,500 whole cancer genomes</title>
+      <link>/publication/2020_pcawg_network/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2020_pcawg_network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combinatorial Detection of Conserved Alteration Patterns for Identifying Cancer Subnetworks</title>
+      <link>/publication/2019_cdcap/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019_cdcap/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visualize and cluster one-mode projection of a bi-partite graph</title>
+      <link>/post/projections/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/projections/</guid>
+      <description>&lt;p&gt;Genomic knowledge are often curated in the form of Genes. For example, a geneset of genes mapping to the chromosome locus chr8q24; a geneset of genes known to involve in DNA Repair Module, etc. Similarly, this data structure is also representative of patient-Genes data.&lt;/p&gt;
+&lt;p&gt;This can be thought of as a bipartite graph representing relation between individual Module to a gene. Often bioinformaticians are interested to visualize if there is any kind of relation between the Modules. This problem can be modeled as the conversion of two-mode network (bipartite graph) to one-mode network of Modules and visualize the resulting one-mode network. Here, I attempt to demonstrate how this can be achieved using R.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/raunakms/2D-TO-1D-Projection&#34;&gt;&lt;strong&gt;Details in github project&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;bip &amp;lt;- matrix(0, nrow=length(ids), ncol=length(genes), dimnames=list(ids, genes))&lt;/p&gt;
+&lt;p&gt;list.genes &amp;lt;- str_split(df$Genes, &amp;quot;:&amp;quot;)
+list.gene.index &amp;lt;- lapply(list.genes, function(x) which(colnames(bip) %in% x))&lt;/p&gt;
+&lt;p&gt;for(i in 1:length(list.gene.index)){
+bip[i,list.gene.index[[i]]] &amp;lt;- 1
+}
+return(bip)
+}&lt;/p&gt;
+&lt;p&gt;bip &amp;lt;- get.bip(dat)&lt;/p&gt;
+&lt;p&gt;bip[1:5,1:5]&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;pre&gt;&lt;code&gt;for(i in 1:nrow(dat)){
+    a &amp;amp;lt;- rownames(dat)[i]
+    
+    for(j in 1:ncol(dat)){
+        b &amp;amp;lt;- colnames(dat)[j]
+        pcc.ab &amp;amp;lt;- dat[a,b] - 0.05
+        
+        conn.pairs.a &amp;amp;lt;- colnames(dat)[which(dat[a,] &amp;amp;gt;= pcc.ab)]
+        conn.pairs.b &amp;amp;lt;- rownames(dat)[which(dat[,b] &amp;amp;gt;= pcc.ab)]
+        
+        conn.pairs.ab &amp;amp;lt;- length(union(conn.pairs.a,conn.pairs.b))
+        n &amp;amp;lt;- nrow(dat)
+        
+        csi &amp;amp;lt;- 1 - (conn.pairs.ab/n)
+        mat[i,j] &amp;amp;lt;- csi
+    }
+}
+return(mat)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;}&lt;/p&gt;
+&lt;p&gt;dat.csi &amp;lt;- get.csi(dat.pcc)
+dat.csi[1:5,1:5]&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h1 id=&#34;set-vertex-attributes&#34;&gt;Set vertex attributes&lt;/h1&gt;
+&lt;p&gt;V(g)$label &amp;lt;- V(g)$name
+V(g)$label.color &amp;lt;- &amp;quot;black&amp;quot;
+V(g)$label.cex &amp;lt;- .8
+V(g)$label.dist &amp;lt;- 0.3
+V(g)$label.family &amp;lt;- &amp;quot;Helvetica&amp;quot;
+V(g)$frame.color &amp;lt;- &amp;quot;grey&amp;quot;&lt;/p&gt;
+&lt;p&gt;E(g)$color &amp;lt;- rgb(.6,.6,0,E(g)$weight)
+E(g)$width &amp;lt;- E(g)$weight * 5&lt;/p&gt;
+&lt;h3 id=&#34;generate-graph-output-file&#34;&gt;Generate Graph Output File&lt;/h3&gt;
+&lt;p&gt;file.graph.output &amp;lt;- &amp;quot;graph_projection.gml&amp;quot;
+write_graph(graph=g, file=file.graph.output, format=&amp;quot;gml&amp;quot;)  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/raunakms/2D-TO-1D-Projection&#34;&gt;&lt;strong&gt;Details in github project&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

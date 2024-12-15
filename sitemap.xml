@@ -2,448 +2,1262 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/publication-type/2/</loc>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/courses/example.1/example3/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/courses/example.2/example3/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/courses/example.1/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/courses/example.2/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/courses/example.2/example4/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/courses/example.1/example4/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/a-ashworth/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/a-foye/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/a-lundberg/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/admni/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ae-moran/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ag-sowalsky/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ak-smith/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/am-bergman/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2024_mhc/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/cancer/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/cg-drake/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/d-kuzuoglu-ozturk/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/d-ruggero/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/da-quigley/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/f-polesso/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/f-zhao/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/fy-feng/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/h-li/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/j-t-hua/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/je-hawley/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jn-graff/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/l-fong/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/la-gilbert/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/lm-kim/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ln-chesner/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/m-bhalla/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/m-sjostrom/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ml-badura/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/mr-cooperberg/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/prostate-cancer/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/r-das/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/rem-hawkins/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/s-linder/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/s-wilkinson/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/sy-trostel/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/t-oloughlin/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/t-shenoy/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/w-zwart/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ws-chen/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/x-guan/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/x-zhu/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/y-hu/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/z-xia/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/admin/</loc>
     <lastmod>2024-07-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/2024_wcdt_atacseq/</loc>
     <lastmod>2024-07-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/cancer/</loc>
+    <loc>/authors/as-weinstein/</loc>
     <lastmod>2024-07-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/prostate-cancer/</loc>
+    <loc>/authors/ej-small/</loc>
     <lastmod>2024-07-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication_types/</loc>
+    <loc>/authors/jj-alumkal/</loc>
     <lastmod>2024-07-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication/</loc>
+    <loc>/authors/m-lupien/</loc>
     <lastmod>2024-07-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/authors/m-zhang/</loc>
     <lastmod>2024-07-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/r-aggarwal/</loc>
+    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/s-zhou/</loc>
+    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/t-moreno-rodriguez/</loc>
+    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/a-weinstein/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/a-wyatt/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/c-arlidge/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/c-pan/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ca-maher/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/d-quigley/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/e-small/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/h-he/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/hx-dang/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2024_wcdt_hic/</loc>
     <lastmod>2024-06-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/2024_alternative_promoter/</loc>
     <lastmod>2024-06-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/talk/aacr-annual-meeting-2024/</loc>
+    <loc>/authors/j-alkumal/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/j-alumkal/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/j-hawley/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/j-lang/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/k-farh/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/k-helzer/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/m-bootsma/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/n-rydzewski/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/pg-febbo/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/s-dehm/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/s-zhao/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/x-cui/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/y-shi/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/20240405_aacr/</loc>
     <lastmod>2024-04-05T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/event/</loc>
+    <loc>/talk/</loc>
     <lastmod>2024-04-05T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/tag/diabetes/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/research_naamii/t2d_microbiome/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/tag/machine-learning/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/research_naamii/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/systems-genomics/</loc>
+    <loc>/tags/diabetes/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/t2d/</loc>
+    <loc>/research_naamii/t2d_microbiome/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tags/machine-learning/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/non-communicable-disease/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/systems-genomics/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/t2d/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/ai_biotech_medicine/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/biotechnology/</loc>
+    <loc>/tags/biotechnology/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/categories/</loc>
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/genomics/</loc>
+    <loc>/tags/genomics/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/category/machine-learning/</loc>
+    <loc>/categories/machine-learning/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/medicine/</loc>
+    <loc>/tags/medicine/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/post/</loc>
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/talk/30th-annual-pcf-scientific-retreat/</loc>
+    <loc>/talk/20231025_pcf_retreat/</loc>
     <lastmod>2023-10-25T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/cervical-cancer/</loc>
+    <loc>/tags/cervical-cancer/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/head-and-neck-cancer/</loc>
+    <loc>/tags/head-and-neck-cancer/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/hpv/</loc>
+    <loc>/tags/hpv/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/research_naamii/hpv_cancer_genomics/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/talk/2023-gordon-research-conference-hormone-dependent-cancers/</loc>
+    <loc>/talk/20230805_gordon_prostate/</loc>
     <lastmod>2023-08-05T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/a-baskin/</loc>
+    <lastmod>2023-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/aw-wyatt/</loc>
+    <lastmod>2023-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/cp-evans/</loc>
+    <lastmod>2023-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/j-chou/</loc>
+    <lastmod>2023-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/k-chang/</loc>
+    <lastmod>2023-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/kn-chi/</loc>
+    <lastmod>2023-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/l-zhang/</loc>
+    <lastmod>2023-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/m-gleave/</loc>
+    <lastmod>2023-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/mb-rettig/</loc>
+    <lastmod>2023-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/n-younger/</loc>
+    <lastmod>2023-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/on-witte/</loc>
+    <lastmod>2023-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/pn-lara/</loc>
+    <lastmod>2023-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/re-reiter/</loc>
+    <lastmod>2023-06-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2023_dnpc/</loc>
     <lastmod>2023-06-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/tm-beer/</loc>
+    <lastmod>2023-06-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2023_happiness/</loc>
     <lastmod>2023-03-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/infectious-disease/</loc>
+    <loc>/authors/j-baniya/</loc>
+    <lastmod>2023-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/rk-shrestha/</loc>
+    <lastmod>2023-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/s-shneiderman/</loc>
+    <lastmod>2023-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/communicable-disease/</loc>
     <lastmod>2023-01-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/research_naamii/tb_drug_resistance/</loc>
     <lastmod>2023-01-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/tb/</loc>
+    <loc>/tags/tb/</loc>
     <lastmod>2023-01-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/tuberculosis/</loc>
+    <loc>/tags/tuberculosis/</loc>
     <lastmod>2023-01-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/dengue/</loc>
+    <loc>/tags/dengue/</loc>
     <lastmod>2023-01-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/research_naamii/dengue_vaccine/</loc>
     <lastmod>2023-01-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/immune/</loc>
+    <loc>/tags/immune/</loc>
     <lastmod>2023-01-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/covid19/</loc>
+    <loc>/tags/covid19/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/research_naamii/covid19_genomics/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/sars/</loc>
+    <loc>/tags/sars/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/talk/bioinformatics-for-predision-oncology/</loc>
+    <loc>/talk/20221124_biomedicum/</loc>
     <lastmod>2022-11-24T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/a-bergamaschi/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/a-bjartell/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/a-maheshwari/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/a-zoubeidi/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ak-morgans/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/c-he/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/c-herberts/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/c-maurice-dror/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/e-mccarthy/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/em-posadas/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/fw-huang/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/gv-thomas/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/hh-he/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/j-huang/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/j-luo/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/j-petricca/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jm-lang/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jt-hua/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/l-chesner/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/m-annala/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/m-fraser/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/mc-haffner/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/md-perry/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/np-mahajan/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/p-lloyd/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/pc-boutros/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/pt-tran/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/r-bose/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/s-chen/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/s-levy/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/sg-zhao/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/sws-ng/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/t-phillips/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2022_prostate5hmc/</loc>
     <lastmod>2022-11-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/category/grant/</loc>
-    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>/authors/w-ye/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/pcf/</loc>
+    <loc>/authors/y-ning/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/grant/</loc>
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tags/pcf/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/pcfyi_2022/</loc>
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/talk/29th-annual-pcf-scientific-retreat/</loc>
+    <loc>/talk/20221025_pcf_retreat/</loc>
     <lastmod>2022-10-25T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/talk/third-nepal-winter-school-in-ai/</loc>
+    <loc>/talk/20211229_ai_ktm/</loc>
     <lastmod>2021-12-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/dr-wahl/</loc>
+    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/m-yu/</loc>
+    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2021_target/</loc>
     <lastmod>2021-09-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/sl-chang/</loc>
+    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/w-chen/</loc>
+    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/a-ge/</loc>
+    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2021_prostatecrispr/</loc>
     <lastmod>2021-07-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/c-yogodzinski/</loc>
+    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/dk-dang/</loc>
+    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ea-egusa/</loc>
+    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jt-swinderman/</loc>
+    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/s-kabir/</loc>
+    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/a-dawson/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/a-haegert/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/b-mcconeghy/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/c-lee/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/cc-collins/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/gb-morin/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ge-dimattia/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/h-kim/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/j-hoenisch/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/m-llaurado-fernandez/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ms-carey/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2021_lgsoc/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/n-wong/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/rh-bell/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/s-anderson/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/s-brahmbhatt/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/s-colborne/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/s-le-bihan/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/s-volik/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/y-lin/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/a-ribas/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/a-vega-crespo/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2020_prostateab/</loc>
     <lastmod>2020-09-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/algorithms/</loc>
+    <loc>/authors/dy-oh/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ib-carretero/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ig-perez/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jc-shon/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/k-kamath/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/m-rettig/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/p-lara/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ps-daugherty/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/r-waitz/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/wa-haynes/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/algorithms/</loc>
     <lastmod>2020-07-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/e-hodzic/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2020_conett/</loc>
     <lastmod>2020-07-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/networks/</loc>
+    <loc>/authors/k-litchfield/</loc>
     <lastmod>2020-07-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/talk/cancer-genomics-and-precision-oncology/</loc>
+    <loc>/tags/networks/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/s-malikic/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/s-turajlic/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/sc-sahinalp/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/20200621_kubic/</loc>
     <lastmod>2020-06-21T10:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/mesothelioma/</loc>
+    <loc>/authors/a-churg/</loc>
     <lastmod>2020-06-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/f-sar/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/mesothelioma/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/n-nabavi/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2020_wdpm/</loc>
     <lastmod>2020-06-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication-type/3/</loc>
+    <loc>/authors/y-wang/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/3/</loc>
     <lastmod>2020-05-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/2020_cookingfuel/</loc>
     <lastmod>2020-05-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/category/infectious-disease/</loc>
+    <loc>/categories/infectious-disease/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/nepal/</loc>
+    <loc>/tags/nepal/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/category/nepal/</loc>
+    <loc>/categories/nepal/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/post/covid19_rdt_pcr_tests/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/a-hurtado-coll/</loc>
+    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ai-so/</loc>
+    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/c-chavez-munoz/</loc>
+    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/cu-monjaras-avila/</loc>
+    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/hz-oo/</loc>
+    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/me-roberts/</loc>
+    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/mr-lowerison/</loc>
+    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/mw-urban/</loc>
+    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/nm-dcosta/</loc>
+    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/pa-raven/</loc>
+    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2020_ybox/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/z-tan/</loc>
+    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/c-kollmannsberger/</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ci-chavez-munoz/</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/d-cina/</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/f-hach/</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/h-asghari/</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2020_rcc/</loc>
     <lastmod>2020-02-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/nm-dcosta/</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ylin/</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/a-kahraman/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/a-valencia/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/bj-raphael/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/c-von-mering/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/d-haan/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/da-wheeler/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/e-khurana/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/g-getz/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/j-barenboim/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/j-reimand/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jm-stuart/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jmg-izarzugaza/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/js-pedersen/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/k-marchal/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/l-wadi/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/lpc-verbeke/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/m-paczkowska/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/m-vazquez/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ma-reyna/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ma-rubin/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ms-lawrence/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/p-dhingra/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2020_pcawg_nature/</loc>
     <lastmod>2020-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/2020_pcawg_network/</loc>
     <lastmod>2020-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/pcawg-consortium/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/s-brunak/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/s-pulido-tamayo/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/authors/a-lowy/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/a-mccart/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2019_mesothelioma/</loc>
     <lastmod>2019-02-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/precision-oncology/</loc>
+    <loc>/authors/d-lin/</loc>
     <lastmod>2019-02-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/e-li/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/f-mo/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/h-h-adomat/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/h-xue/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/j-zhou/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/l-fazli/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/m-daugaard/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/me-gleave/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/precision-oncology/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/r-shukin/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/t-chen/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/x-dong/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/y-mcconnell/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2019_cdcap/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/k-cheng/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/k-zhu/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/talk/first-nepal-winter-school-in-ai/</loc>
+    <loc>/talk/20181220_ai_ktm/</loc>
     <lastmod>2018-10-31T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/talk/inactivation-of-bap1-predicts-a-distinct-immunogenic-class-of-malignant-peritoneal-mesothelioma/</loc>
+    <loc>/talk/20180928_terryfox/</loc>
     <lastmod>2018-09-25T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/data-viz/</loc>
+    <loc>/tags/data-viz/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/category/data-viz/</loc>
+    <loc>/categories/data-viz/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/post/bibliography_phdthesis/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication-type/7/</loc>
+    <loc>/publication_types/7/</loc>
     <lastmod>2018-08-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/2018_phdthesis/</loc>
     <lastmod>2018-08-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/software/</loc>
-    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/talk/bap1-loss-predicts-therapeutic-vulnerability-in-malignant-peritoneal-mesothelioma/</loc>
+    <loc>/talk/20180502_imig/</loc>
     <lastmod>2018-05-04T11:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/bk-dhillon/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/cospencer/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ee-gill/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/fsl-brinkman/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/gl-winsor/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2018_rnabacteria/</loc>
     <lastmod>2018-03-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/ls-chan/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/n-dobson/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/pj-unrau/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/pk-taylor/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/r-lo/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/rew-hancock/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/sjh-sui/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2018_dgs/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/e-davicioni/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/h-sharifi-noghabi/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/m-alshalalfa/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/m-ester/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/n-erho/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/y-liu/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/a-saha/</loc>
+    <lastmod>2018-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/d-yin/</loc>
+    <lastmod>2018-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/f-menczer/</loc>
+    <lastmod>2018-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/h-mamitsuka/</loc>
+    <lastmod>2018-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/h-ouyang/</loc>
+    <lastmod>2018-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/j-lugo-martinez/</loc>
+    <lastmod>2018-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/j-tang/</loc>
+    <lastmod>2018-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/m-yamada/</loc>
+    <lastmod>2018-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/p-radivojac/</loc>
+    <lastmod>2018-01-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2018_featureselection/</loc>
     <lastmod>2018-01-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/talk/hitndrive-patient-specific-multi-driver-gene-prioritization-for-precision-oncology/</loc>
+    <loc>/authors/y-chang/</loc>
+    <lastmod>2018-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/20171105_ccrc/</loc>
     <lastmod>2017-11-05T11:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/talk/hitndrive-patient-specific-multi-driver-gene-prioritization-for-precision-oncology/</loc>
+    <loc>/talk/20171104_tfri/</loc>
     <lastmod>2017-11-04T11:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/talk/hitndrive-patient-specific-multi-driver-gene-prioritization-for-precision-oncology/</loc>
+    <loc>/talk/20171101_cshl/</loc>
     <lastmod>2017-11-01T11:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/f-vandin/</loc>
+    <lastmod>2017-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/g-haffari/</loc>
+    <lastmod>2017-07-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2017_hitndrive/</loc>
     <lastmod>2017-07-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/talk/translating-big-data-to-precision-oncology/</loc>
+    <loc>/authors/j-yeung/</loc>
+    <lastmod>2017-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/k-wang/</loc>
+    <lastmod>2017-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/p-dao/</loc>
+    <lastmod>2017-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/t-sauerwald/</loc>
+    <lastmod>2017-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/20170217_terryfox/</loc>
     <lastmod>2017-02-17T09:30:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/talk/hitndrive-patient-specific-multi-driver-gene-prioritization-for-precision-oncology/</loc>
+    <loc>/talk/20161103_vanbug/</loc>
     <lastmod>2016-11-03T18:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/talk/ashg-2016/</loc>
+    <loc>/talk/20161018_ashg/</loc>
     <lastmod>2016-10-18T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/talk/hitndrive-patient-specific-multi-driver-gene-prioritization-for-precision-oncology/</loc>
+    <loc>/talk/20161003_giw/</loc>
     <lastmod>2016-10-03T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/2016_birc6/</loc>
     <lastmod>2016-09-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>/authors/f-zhang/</loc>
+    <lastmod>2016-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>/authors/isu-luk/</loc>
+    <lastmod>2016-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/example/</loc>
+    <loc>/authors/pw-gout/</loc>
+    <lastmod>2016-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/r-wu/</loc>
+    <lastmod>2016-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/artificial-intelligence/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tags/human/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/bioinformatics/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>/tags/robotics/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/category/networks/</loc>
+    <loc>/project/robotics/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/skin-cancer-ai/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/bioinformatics/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/categories/networks/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/projections/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/talk/hitndrive-patient-specific-multi-driver-gene-prioritization-to-guide-precision-cancer-medicine/</loc>
+    <loc>/talk/20160411_simons/</loc>
     <lastmod>2016-04-12T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/talk/pcawg-2016/</loc>
+    <loc>/talk/20160407_pcawg/</loc>
     <lastmod>2016-04-07T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/a-lapuk/</loc>
+    <lastmod>2014-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/a-mcpherson/</loc>
+    <lastmod>2014-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/am-chinnaiyan/</loc>
+    <lastmod>2014-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/dm-mitchell/</loc>
+    <lastmod>2014-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/h-xiao/</loc>
+    <lastmod>2014-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2014_highriskpca/</loc>
     <lastmod>2014-08-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/j-bishop/</loc>
+    <lastmod>2014-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/j-liew/</loc>
+    <lastmod>2014-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/l-jong/</loc>
+    <lastmod>2014-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/r-mehra/</loc>
+    <lastmod>2014-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/rl-johnston/</loc>
+    <lastmod>2014-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2014_drugresp/</loc>
     <lastmod>2014-07-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication-type/1/</loc>
+    <loc>/authors/a-reddy/</loc>
+    <lastmod>2014-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/j-lehar/</loc>
+    <lastmod>2014-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/1/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/h-beltran/</loc>
+    <lastmod>2014-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2014_hitndrive/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/2011_mtb/</loc>
     <lastmod>2011-01-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/bg-shrestha/</loc>
+    <lastmod>2011-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/bh-poudel/</loc>
+    <lastmod>2011-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/k-joshi/</loc>
+    <lastmod>2011-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/rn-joshi/</loc>
+    <lastmod>2011-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/bio/</loc>
+  </url><url>
+    <loc>/software/</loc>
   </url>
 </urlset>

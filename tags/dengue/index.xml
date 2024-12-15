@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dengue on Raunak Shrestha</title>
+    <link>/tags/dengue/</link>
+    <description>Recent content in Dengue on Raunak Shrestha</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year} Raunak Shrestha</copyright>
+    <lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/dengue/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Developing efficient dengue vaccine</title>
+      <link>/research_naamii/dengue_vaccine/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/research_naamii/dengue_vaccine/</guid>
+      <description>&lt;h2 id=&#34;mining-dengue-virus-immunopeptidome-for-next-generation-dengue-vaccine-br&#34;&gt;Mining Dengue virus immunopeptidome for next-generation dengue vaccine &lt;!-- raw HTML omitted --&gt;&lt;/h2&gt;
+&lt;p&gt;Dengue is a viral infection caused by the Dengue virus (DENV), transmitted to humans through the bite of infected mosquitoes, particularly female Aedes aegypti and A. albopictus. Dengue presents an escalating global public health crisis, endangering nearly half of the world&amp;rsquo;s population at a significantly high level of risk. Preventing severe dengue cases by vaccination is crucial for reducing the overall disease burden, minimizing hospitalizations, and saving lives. Currently, available dengue vaccines are ineffective in providing complete immunity against all serotypes of the virus, and their efficacy varies widely across different age groups and prior dengue exposure statuses. Thus, there is an urgent need for a balanced dengue vaccine effective against all DENV serotypes. For this, we aim to discover new molecular targets essential for the development of a more effective next-generation dengue vaccine.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

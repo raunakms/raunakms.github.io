@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Yogodzinski on Raunak Shrestha</title>
+    <link>/authors/c-yogodzinski/</link>
+    <description>Recent content in C Yogodzinski on Raunak Shrestha</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year} Raunak Shrestha</copyright>
+    <lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/c-yogodzinski/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An integrated functional and clinical genomics approach reveals genes driving aggressive metastatic prostate cancer</title>
+      <link>/publication/2021_prostatecrispr/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2021_prostatecrispr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
