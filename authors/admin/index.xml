@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year} Raunak Shrestha</copyright>
-    <lastBuildDate>Tue, 13 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a Computational Biology Research Scientist with &lt;a href=&#34;http://fenglaboratory.com/&#34;&gt;Dr. Felix Feng&lt;/a&gt; at UCSF. My primary research location is the &lt;a href=&#34;http://cancer.ucsf.edu/&#34;&gt;UCSF HDFC Cancer Center&lt;/a&gt;. Additionally, I hold Adjunct Research Scientist position at the &lt;a href=&#34;https://www.naamii.org.np/&#34;&gt;Nepal Applied Mathematics &amp;amp; Informatics Institute for Research (NAAMII)&lt;/a&gt;, where I am leading the Computational Genomics Laboratory. [&lt;a href=&#34;/bio/&#34;&gt;My Bio&lt;/a&gt;]&lt;/p&gt;
@@ -24,6 +24,137 @@
 &lt;p&gt;&lt;strong&gt;I am actively looking for academic faculty position.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Generalized Extreme Studentized Deviate (GESD) test to detect outliers in R</title>
+      <link>/post/gesd/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/gesd/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;The GESD statistical test can be used to answer the following question: &lt;em&gt;How many outliers does the data set contain?&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Here, I present an implementation of GESD test written in R which can be accessed using the following url: &lt;a href=&#34;https://github.com/raunakms/GESD&#34;&gt;https://github.com/raunakms/GESD&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;generalized-extreme-studentized-deviate-gesd-test&#34;&gt;Generalized Extreme Studentized Deviate (GESD) test&lt;/h2&gt;
+&lt;p&gt;The generalized (extreme Studentized deviate) ESD test (Rosner 1983) is a statistical method used to detect one or more outliers in a univariate data set that follows an approximately normal distribution. The primary limitation of the Grubbs test and the Tietjen-Moore test is that the suspected number of outliers, $k$, must be specified exactly. If $k$ is not specified correctly, this can distort the conclusions of these tests. On the other hand, the generalized ESD test (Rosner 1983) only requires that an upper bound for the suspected number of outliers be specified.&lt;/p&gt;
+&lt;p&gt;Given the upper bound, $r$, the generalized ESD test essentially performs $r$ separate tests: a test for one outlier, a test for two outliers, and so on up to $r$ outliers.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The generalized ESD test is defined for the hypothesis:
+&lt;ul&gt;
+&lt;li&gt;$H_{0}$: There are no outliers in the data set&lt;/li&gt;
+&lt;li&gt;$H_{a}$: There are up to r outliers in the data set&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Test Statistic&lt;/strong&gt;: Compute
+$$R_{i} = \frac{max_{i}|x_{i} - \bar{x}|}{s} $$
+with $x$ and $s$ denoting the sample mean and sample standard deviation, respectively. Remove the observation that maximizes $|x_{i} - \bar{x}|$ and then recompute the above statistic with $n-1$ observations. Repeat this process until $r$ observations have been removed. This results in the $r$ test statistics $R_{1}, R_{2}, &amp;hellip;, R_{r}$.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Significance Level&lt;/strong&gt;: alpha $(\alpha)$&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Critical Region&lt;/strong&gt;: Corresponding to the $r$ test statistics, compute the following $r$ critical values
+$$ \lambda_{i} = \frac{(n-i) * t_{n-i-1,p}}{ \sqrt{(n-i-1 + t^2_{n-i-1,p})*(n-i+1)} } $$&lt;/p&gt;
+&lt;p&gt;where $i = 1, 2, &amp;hellip;, r$, and $t_{d,p}$ is the $p^{th}$ percentile of a $t$ distribution with $d$ degrees of freedom.&lt;/p&gt;
+&lt;p&gt;$$ p = 1 - \frac{\alpha}{2*(n-i+1)} $$&lt;/p&gt;
+&lt;p&gt;The number of outliers is determined by finding the largest $i$ such that $ R_{i} &amp;gt; \lambda_{i} $. Simulation studies by Rosner indicate that this critical value approximation is very accurate for $n \ge 25$ and reasonably accurate for $n \ge 15$.&lt;/p&gt;
+&lt;p&gt;Note that although the generalized ESD is essentially Grubbs test applied sequentially, there are a few important distinctions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The generalized ESD test makes appropriate adjustments for the critical values based on the number of outliers being tested for that the sequential application of Grubbs test does not.&lt;/li&gt;
+&lt;li&gt;If there is significant masking, applying Grubbs test sequentially may stop too soon. The example below identifies three outliers at the 5% level when using the generalized ESD test.&lt;/li&gt;
+&lt;li&gt;However, trying to use Grubbs test sequentially would stop at the first iteration and declare no outliers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;original-paper-citation&#34;&gt;Original Paper Citation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;B. Rosner (1983). Percentage Points for a Generalized ESD Many-Outlier Procedure. Technometrics 25(2), pp. 165-172. &lt;a href=&#34;http://www.jstor.org/stable/1268549?seq=1&#34;&gt;http://www.jstor.org/stable/1268549?seq=1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;decription&#34;&gt;Decription&lt;/h2&gt;
+&lt;p&gt;Computes outliers for the given data using GESD statistics.&lt;/p&gt;
+&lt;h3 id=&#34;usage&#34;&gt;Usage&lt;/h3&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;gesd(obs, alpha, value.zscore, r)
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;arguments&#34;&gt;Arguments&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;$obs$ : a vector of observation&lt;/li&gt;
+&lt;li&gt;$alpha$ : significance Level&lt;/li&gt;
+&lt;li&gt;$value.zscore$ : if the observation value are already z-normalized. Takes values &amp;ldquo;YES&amp;rdquo; or &amp;ldquo;NO&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;$r$ : upperbound to the number of observations to call as an outlier. If NA, computes GESD test statistic until values of half sample size have been removed from the sample.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;value&#34;&gt;Value&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Total : The first column gives the total number of outliers&lt;/li&gt;
+&lt;li&gt;Rest of the columns are for each observation&lt;/li&gt;
+&lt;li&gt;Value of the outlier indicates the outlier rank in the acending order where 0 inidicates not an outlier, 1 inidicate the highest ranked outlier (i.e. most extreme observation).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;r-code&#34;&gt;R-code&lt;/h2&gt;
+&lt;p&gt;Below is the R-code of the function that implements GESD test&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;gesd &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt;(obs, alpha, value.zscore&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;NA&lt;/span&gt;, r&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;NA&lt;/span&gt;) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#75715e&#34;&gt;#### Define and Declare Variables ####&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	n &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;length&lt;/span&gt;(obs)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;is.na&lt;/span&gt;(r)){r &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;floor&lt;/span&gt;(n&lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;)} &lt;span style=&#34;color:#75715e&#34;&gt;# by default, set upper bound on number of outliers &amp;#39;r&amp;#39; to 1/2 sample size&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	R &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;numeric&lt;/span&gt;(length&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;r) &lt;span style=&#34;color:#75715e&#34;&gt;# test statistics for &amp;#39;r&amp;#39; outliers&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	lambda &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;numeric&lt;/span&gt;(length&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;r) &lt;span style=&#34;color:#75715e&#34;&gt;# critical values for &amp;#39;r&amp;#39; outliers&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	outlier_ind &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;numeric&lt;/span&gt;(length&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;r) &lt;span style=&#34;color:#75715e&#34;&gt;# removed outlier observation values&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	outlier_val &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;numeric&lt;/span&gt;(length&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;r) &lt;span style=&#34;color:#75715e&#34;&gt;# removed outlier observation values&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	m &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;# number of outliers&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	obs_new &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; obs &lt;span style=&#34;color:#75715e&#34;&gt;# temporary observation values&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#75715e&#34;&gt;#### Find outliers ####&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt;(i &lt;span style=&#34;color:#66d9ef&#34;&gt;in&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;r){
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		&lt;span style=&#34;color:#75715e&#34;&gt;#### Compute test statistic ####&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		&lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt;((value.zscore &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;YES&amp;#34;&lt;/span&gt;) &lt;span style=&#34;color:#f92672&#34;&gt;|&lt;/span&gt; (value.zscore &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Y&amp;#34;&lt;/span&gt;)){
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;			z &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;abs&lt;/span&gt;(obs_new) &lt;span style=&#34;color:#75715e&#34;&gt;# If Z-score is alrealy computed&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		}&lt;span style=&#34;color:#66d9ef&#34;&gt;else&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt;((value.zscore &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;NO&amp;#34;&lt;/span&gt;) &lt;span style=&#34;color:#f92672&#34;&gt;|&lt;/span&gt; (value.zscore &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;N&amp;#34;&lt;/span&gt;)){
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;			z &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;abs&lt;/span&gt;(obs_new &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;mean&lt;/span&gt;(obs_new))&lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;sd&lt;/span&gt;(obs_new) &lt;span style=&#34;color:#75715e&#34;&gt;# Z-scores&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		} &lt;span style=&#34;color:#66d9ef&#34;&gt;else&lt;/span&gt;{
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;			&lt;span style=&#34;color:#a6e22e&#34;&gt;print&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;ERROR! Inappropriate value for value.score=[YES|NO]&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		max_ind &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;which&lt;/span&gt;(z&lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;max&lt;/span&gt;(z),arr.ind&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;T)[1] &lt;span style=&#34;color:#75715e&#34;&gt;# in case of ties, return first one&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		R[i] &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; z[max_ind] &lt;span style=&#34;color:#75715e&#34;&gt;# max Z-score&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		outlier_val[i] &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; obs_new[max_ind] &lt;span style=&#34;color:#75715e&#34;&gt;# removed outlier observation values&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		outlier_ind[i] &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;which&lt;/span&gt;(obs_new[max_ind] &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt; obs, arr.ind&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;T)[1] &lt;span style=&#34;color:#75715e&#34;&gt;# index of removed outlier observation values&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		obs_new &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; obs_new[&lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;max_ind] &lt;span style=&#34;color:#75715e&#34;&gt;# remove observation that maximizes |x_i - x_mean|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		&lt;span style=&#34;color:#75715e&#34;&gt;#### Compute critical values ####&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		&lt;span style=&#34;color:#75715e&#34;&gt;##n_obs &amp;lt;- length(obs_new) # subset sample size&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		p &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt; alpha&lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt;(n&lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;i&lt;span style=&#34;color:#ae81ff&#34;&gt;+1&lt;/span&gt;)) &lt;span style=&#34;color:#75715e&#34;&gt;# probability&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		t_pv &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;qt&lt;/span&gt;(p,df&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;(n&lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;i&lt;span style=&#34;color:#ae81ff&#34;&gt;-1&lt;/span&gt;)) &lt;span style=&#34;color:#75715e&#34;&gt;# Critical value from Student&amp;#39;s t distribution&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		lambda[i] &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; ((n&lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;i)&lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt;t_pv) &lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt; (&lt;span style=&#34;color:#a6e22e&#34;&gt;sqrt&lt;/span&gt;((n&lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;i&lt;span style=&#34;color:#ae81ff&#34;&gt;-1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt;t_pv^2)&lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt;(n&lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;i&lt;span style=&#34;color:#ae81ff&#34;&gt;+1&lt;/span&gt;)))
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		&lt;span style=&#34;color:#75715e&#34;&gt;#### Find exact number of outliers: largest &amp;#39;i&amp;#39; such that R_i &amp;gt; lambda_i ####&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		&lt;span style=&#34;color:#75715e&#34;&gt;# print(c(i, R[i], lambda[i]))&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		&lt;span style=&#34;color:#75715e&#34;&gt;# try ((R[i] &amp;gt; lambda[i]), finally &amp;lt;- print(c(i, R[i], lambda[i]))&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		&lt;span style=&#34;color:#75715e&#34;&gt;# )&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		&lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt;(&lt;span style=&#34;color:#f92672&#34;&gt;!&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;is.na&lt;/span&gt;(R[i]) &lt;span style=&#34;color:#f92672&#34;&gt;&amp;amp;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;!&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;is.na&lt;/span&gt;(lambda[i])) { &lt;span style=&#34;color:#75715e&#34;&gt;# qt can produce NaNs&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;			&lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; (R[i] &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; lambda[i]) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;				m &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; i
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;			}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;			&lt;span style=&#34;color:#75715e&#34;&gt;# else {&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;				&lt;span style=&#34;color:#75715e&#34;&gt;# break&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;			&lt;span style=&#34;color:#75715e&#34;&gt;# }&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;			
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	vals &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;data.frame&lt;/span&gt;(NumOutliers&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;r, TestStatistic&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;R, CriticalValue&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;lambda)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#75715e&#34;&gt;# print(vals)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#75715e&#34;&gt;#### Rank outlier observations ####&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	outlier_rank &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;numeric&lt;/span&gt;(length&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;n)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; (m &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		&lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; (i &lt;span style=&#34;color:#66d9ef&#34;&gt;in&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;m) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;			&lt;span style=&#34;color:#75715e&#34;&gt;# outlier_rank[outlier_ind[i]] &amp;lt;- i&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;			outlier_rank&lt;span style=&#34;color:#a6e22e&#34;&gt;[which&lt;/span&gt;(obs&lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt;outlier_val[i])] &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; i
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	num_outliers &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;sum&lt;/span&gt;(outlier_rank &lt;span style=&#34;color:#f92672&#34;&gt;!=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;) &lt;span style=&#34;color:#75715e&#34;&gt;#14 and 25 missing&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	res &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;c&lt;/span&gt;(num_outliers, outlier_rank)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#a6e22e&#34;&gt;names&lt;/span&gt;(res) &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;c&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Total&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;names&lt;/span&gt;(obs))
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt;(res)	
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     
     <item>

@@ -23,6 +23,15 @@
     </item>
     
     <item>
+      <title>Posts</title>
+      <link>/post/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Conferences &amp; Events</title>
       <link>/talk/</link>
       <pubDate>Wed, 23 Oct 2024 09:00:00 +0000</pubDate>
@@ -41,15 +50,6 @@
 &lt;p&gt;In Computational Genomics Lab at &lt;a href=&#34;https://www.naamii.org.np/&#34;&gt;Nepal Applied Mathematics &amp;amp; Informatics Institute for Research (NAAMII)&lt;/a&gt;, we aim to transform global health through the application of computational genomics. Our areas of focus includes genomics of some of the major communicable and non-communicable diseases prevalent in Nepal, with a particular emphasis on better understanding disease progression and treatment resistance.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>/post/</link>
-      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/post/</guid>
-      <description></description>
     </item>
     
     <item>
