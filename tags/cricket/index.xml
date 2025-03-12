@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cricket on Raunak Shrestha</title>
+    <link>//localhost:1313/tags/cricket/</link>
+    <description>Recent content in Cricket on Raunak Shrestha</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year} Raunak Shrestha</copyright>
+    <lastBuildDate>Sun, 29 Dec 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="//localhost:1313/tags/cricket/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Speaks: Nepal Premier League (NPL) 2024</title>
+      <link>//localhost:1313/post/npl2024/</link>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/post/npl2024/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/2024_Nepal_Premier_League&#34;&gt;2024 Nepal Premier League (NPL)&lt;/a&gt; recently rocked Kathmandu, Nepal, transforming the &lt;a href=&#34;https://en.wikipedia.org/wiki/Tribhuvan_University_International_Cricket_Ground&#34;&gt;TU International Cricket Ground&lt;/a&gt; into a vibrant hub of cricketing action from November 30th to December 21st 2024, captivating fans across the nation. The brainchild of the Cricket Association of Nepal (CAN), the NPL proved a resounding success, showcasing Nepali cricket to the world and solidifying its place on the global map. The tournament ignited a wave of excitement throughout the country, earning the well-deserved title of &amp;lsquo;Festival of Himalayas&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;Eight fierce franchise teams, Sudurpaschim Royals (SPR), Janakpur Bolts (JAB), Chitwan Rhinos (CHR), Karnali Yaks (KAY), Kathmandu Gurkhas (KAG), Biratnagar Kings (BIK), Pokhara Avengers (POA), and Lumbini Lions (LUL) clashed in a thrilling 32-match spectacle. In the NPL final, Janakpur Bolts triumphed over Sudurpaschim Royals by five wickets to claim the title.&lt;/p&gt;
+&lt;p&gt;Here is my attempt to dive into the data and analyze how the NPL teams and players performed throughout the competition.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Most Runs in NPL 2024&#34; src=&#34;./img/npl2024_batting_most_runs.png&#34; title=&#34;Most Runs in NPL 2024&#34;&gt;
+&lt;em&gt;Most Runs in NPL 2024&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
