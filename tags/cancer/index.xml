@@ -58,17 +58,6 @@
     </item>
     
     <item>
-      <title>HPV-mediated Cancers</title>
-      <link>/research_naamii/hpv_cancer_genomics/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/research_naamii/hpv_cancer_genomics/</guid>
-      <description>&lt;h2 id=&#34;biomarkers-of-hpv-negative-head-and-neck-cancer-br&#34;&gt;Biomarkers of HPV-negative head and neck cancer &lt;/br&gt;&lt;/h2&gt;
-&lt;p&gt;Approximately 10% of worldwide cancer cases are linked to viruses. Human papillomavirus (HPV) infection is specifically associated with both cervical cancer and Head and Neck Cancer (HNC), often sexually transmitted. In Nepal, cervical cancer stands out as one of the most commonly diagnosed cancers in women, while HNC ranks as a significant contributor to cancer morbidity in both sexes. HPV infection is identified in nearly all cervical cases. In contrast, about 70% of HNC cases exhibit HPV infections, with the remaining 30% linked to factors such as smoking and alcohol/tobacco consumption, rendering them HPV-negative. The presence or absence of HPV infection in HNC is closely tied to disease prognosis and significantly influences treatment approaches. In cervical cancer and HNC, the virus integrates into the host genome, activating E6/E7 oncoproteins that dysregulate cell-cycle regulation and promote uncontrolled cell proliferation. The risk of HPV-mediated cancers is significantly lowered through HPV vaccination, contributing to a global decrease in its incidence. HPV vaccination campaign globally decreases the prevalence of HPV-positive HNC, leading to a potential increase in HPV-negative HNC in the future. HPV-negative HNC cancers are genetically different than HPV-mediated cancers, often presenting as more advanced disease at the time of diagnosis and less responsive to standard-of-care treatments. Therefore, it is crucial to discern the genomic predictors of HPV-negative cancers that can aid in early detection and disease prognosis prediction. In this study, we will identify genomic predictors of HPV-positive and HPV-negative cancers using machine learning models trained in multi-omics data from both cervical cancer and HNC.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>The genomic and epigenomic landscape of double-negative metastatic prostate cancer</title>
       <link>/publication/2023_dnpc/</link>
       <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>

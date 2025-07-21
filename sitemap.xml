@@ -338,27 +338,6 @@
     <loc>/talk/20240405_aacr/</loc>
     <lastmod>2024-04-05T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>/research_naamii/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/diabetes/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/research_naamii/t2d_microbiome/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/machine-learning/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/non-communicable-disease/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/systems-genomics/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/t2d/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/post/ai_biotech_medicine/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -371,6 +350,9 @@
     <loc>/tags/genomics/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/machine-learning/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/categories/machine-learning/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -379,18 +361,6 @@
   </url><url>
     <loc>/talk/20231025_pcf_retreat/</loc>
     <lastmod>2023-10-25T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/cervical-cancer/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/head-and-neck-cancer/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/hpv/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/research_naamii/hpv_cancer_genomics/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/20230805_gordon_prostate/</loc>
     <lastmod>2023-08-05T09:00:00+00:00</lastmod>
@@ -451,36 +421,6 @@
   </url><url>
     <loc>/authors/s-shneiderman/</loc>
     <lastmod>2023-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/communicable-disease/</loc>
-    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/research_naamii/tb_drug_resistance/</loc>
-    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/tb/</loc>
-    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/tuberculosis/</loc>
-    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/dengue/</loc>
-    <lastmod>2023-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/research_naamii/dengue_vaccine/</loc>
-    <lastmod>2023-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/immune/</loc>
-    <lastmod>2023-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/covid19/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/research_naamii/covid19_genomics/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/sars/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/20221124_biomedicum/</loc>
     <lastmod>2022-11-24T09:00:00+00:00</lastmod>
@@ -793,6 +733,9 @@
   </url><url>
     <loc>/publication/2020_cookingfuel/</loc>
     <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/covid19/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/infectious-disease/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
