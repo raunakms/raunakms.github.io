@@ -7,10 +7,19 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year} Raunak Shrestha</copyright>
-    <lastBuildDate>Tue, 13 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/t-liu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Genome-scale CRISPR screens identify PTGES3 as a direct modulator of AR function in advanced prostate cancer</title>
+      <link>/publication/2025_ptges3/</link>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2025_ptges3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Genomic and transcriptomic features of androgen receptor signaling inhibitor resistance in metastatic castration-resistant prostate cancer</title>
