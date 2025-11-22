@@ -7,10 +7,20 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year} Raunak Shrestha</copyright>
-    <lastBuildDate>Mon, 15 Sep 2025 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Publications</title>
+      <link>/publication/</link>
+      <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/myncbi/1nyJo6FKz4K5k/bibliography/public/&#34;&gt;PubMed&lt;/a&gt; | &lt;a href=&#34;https://scholar.google.ca/citations?hl=en&amp;user=5A37xOcAAAAJ&#34;&gt;Google Scholar&lt;/a&gt; | &lt;a href=&#34;http://dblp.uni-trier.de/pers/hd/s/Shrestha:Raunak.html&#34;&gt;Computer Science Bibliography (dblp)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Conferences &amp; Events</title>
@@ -19,16 +29,6 @@
       
       <guid>/talk/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/myncbi/1nyJo6FKz4K5k/bibliography/public/&#34;&gt;PubMed&lt;/a&gt; | &lt;a href=&#34;https://scholar.google.ca/citations?hl=en&amp;user=5A37xOcAAAAJ&#34;&gt;Google Scholar&lt;/a&gt; | &lt;a href=&#34;http://dblp.uni-trier.de/pers/hd/s/Shrestha:Raunak.html&#34;&gt;Computer Science Bibliography (dblp)&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
     <item>

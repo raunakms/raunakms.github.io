@@ -7,13 +7,22 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year} Raunak Shrestha</copyright>
-    <lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/prostate-cancer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Genome-scale CRISPR screens identify PTGES3 as a direct modulator of AR function in advanced prostate cancer</title>
+      <title>Extracellular vesicle-mediated delivery of CRISPR machinery silences androgen receptor in castration-resistant prostate cancer cells</title>
+      <link>/publication/2025_ev_crispr/</link>
+      <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2025_ev_crispr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-scale CRISPR screens identify PTGES3 as a direct modulator of androgen receptor function in advanced prostate cancer</title>
       <link>/publication/2025_ptges3/</link>
       <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
       
